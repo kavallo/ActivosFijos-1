@@ -1,0 +1,350 @@
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.DB.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Entidades.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.HelperClient.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Iconos.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Locals.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Security.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.SPCComunes.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Traductor.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.UIGenerico.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.DB.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.DB.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Entidades.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Entidades.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.HelperClient.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.HelperClient.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Locals.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Locals.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Security.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Security.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.SPCComunes.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.SPCComunes.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Traductor.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Traductor.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.UIGenerico.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.UIGenerico.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Iconos.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Iconos.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.FInicio.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTCDAS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTCUTC.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTMAFSA4.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTMARS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTPRV.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTUBIS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTTMAS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTTACS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTTSAS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTCDUS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTVCDS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTRAFS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.CXPCPIS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.PROVES06.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.MONEDS01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.snRESPON.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.DIVISS01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.TASASS01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTCDAM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTCUTCB.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTPRVB.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTRESN0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTUBIM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTTMAM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTTACM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTMARM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTTSAM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTCDUM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTVCDM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTRAFM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.CXPCPIM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.MONEDM02.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.PIDE_DATOS.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.PIDE_PROD_FEC.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.PROVEM03.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.msRESPON.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.DIVISM01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.PROVEM10.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.TASASG01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.TASASM01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.Resources.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.Principal.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\ADMACT.exe.config
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\ADMACT.exe
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\ADMACT.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\ADMACT.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\ADMACT.exe
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\ADMACT.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\ADMACT.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Reportes.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\log4net.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Reportes.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Release\Citi.Synergia.Reportes.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.NOMEMPS8.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.NOMEMPC0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTAFGC0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Release\Admin.ACTMAFC0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\ADMACT.exe.config
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\ADMACT.exe
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\ADMACT.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\ADMACT.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.FInicio.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTCDAS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTCUTC.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTMAFSA4.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTMARS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTPRV.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTUBIS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTTMAS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTTACS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTTSAS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTCDUS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTVCDS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTRAFS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.CXPCPIS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.NOMEMPS8.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.PROVES06.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.MONEDS01.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.snRESPON.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.DIVISS01.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.TASASS01.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTAFGC0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTCDAM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTCUTCB.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTMAFC0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTPRVB.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTRESN0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTUBIM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTTMAM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTTACM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTMARM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTTSAM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTCDUM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTVCDM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTRAFM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.CXPCPIM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.MONEDM02.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.NOMEMPC0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.PIDE_DATOS.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.PIDE_PROD_FEC.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.PROVEM03.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.msRESPON.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.DIVISM01.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.PROVEM10.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.TASASG01.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.TASASM01.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.Resources.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\Admin.Principal.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\ADMACT.exe
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\ADMACT.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\ADMACT.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.DB.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Entidades.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.HelperClient.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Iconos.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Locals.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Security.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.SPCComunes.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Traductor.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.UIGenerico.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.SecuritySG.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.DB.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.DB.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Entidades.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Entidades.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.HelperClient.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.HelperClient.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Locals.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Locals.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Security.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Security.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.SPCComunes.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.SPCComunes.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Traductor.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Traductor.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.UIGenerico.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.UIGenerico.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Iconos.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Iconos.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Reports.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Reports.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Reports.xml
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\ADMACT.exe.config
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\ADMACT.exe
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\ADMACT.xml
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\ADMACT.pdb
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\ADMACT.exe
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\ADMACT.pdb
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\ADMACT.xml
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.DB.dll
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Entidades.dll
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.HelperClient.dll
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Iconos.dll
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Locals.dll
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Reports.dll
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Security.dll
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.SPCComunes.dll
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Traductor.dll
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.UIGenerico.dll
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.DB.pdb
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.DB.xml
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Entidades.pdb
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Entidades.xml
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.HelperClient.pdb
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.HelperClient.xml
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Locals.pdb
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Locals.xml
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Reports.pdb
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Reports.xml
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Security.pdb
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Security.xml
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.SPCComunes.pdb
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.SPCComunes.xml
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Traductor.pdb
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Traductor.xml
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.UIGenerico.pdb
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.UIGenerico.xml
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Iconos.pdb
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.Iconos.xml
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\ADMACT.vbprojResolveAssemblyReference.cache
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.FInicio.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTCDAS0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTCUTC.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTMAFSA4.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTMARS0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTPRV.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTUBIS0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTTMAS0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTTACS0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTTSAS0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTCDUS0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTVCDS0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTRAFS0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.CXPCPIS0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.NOMEMPS8.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.PROVES06.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.MONEDS01.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.snRESPON.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.DIVISS01.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.TASASS01.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTAFGC0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTCDAM0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTCUTCB.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTMAFC0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTPRVB.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTRESN0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTUBIM0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTTMAM0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTTACM0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTMARM0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTTSAM0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTCDUM0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTVCDM0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.ACTRAFM0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.CXPCPIM0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.MONEDM02.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.NOMEMPC0.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.PIDE_DATOS.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.PIDE_PROD_FEC.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.PROVEM03.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.msRESPON.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.DIVISM01.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.PROVEM10.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.TASASG01.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.TASASM01.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.Resources.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\Admin.Principal.resources
+C:\ActivosFijos2014\Modulos\Admin\Admin\obj\x86\Release\ADMACT.vbproj.GenerateResource.Cache
+C:\ActivosFijos2014\Modulos\Admin\Admin\bin\Release\Citi.Synergia.SecuritySG.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\ADMACT.exe.config
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\ADMACT.exe
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\ADMACT.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\ADMACT.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.DB.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Entidades.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.HelperClient.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Iconos.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Locals.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Reports.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Security.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.SPCComunes.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Traductor.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.UIGenerico.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.SecuritySG.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.DB.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.DB.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Entidades.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Entidades.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.HelperClient.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.HelperClient.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Iconos.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Iconos.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Locals.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Locals.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Reports.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Reports.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Security.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Security.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.SPCComunes.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.SPCComunes.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Traductor.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.Traductor.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.UIGenerico.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\bin\Release\Citi.Synergia.UIGenerico.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\ADMACT.vbprojResolveAssemblyReference.cache
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.FInicio.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTCDAS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTCUTC.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTMAFSA4.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTMARS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTPRV.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTUBIS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTTMAS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTTACS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTTSAS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTCDUS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTVCDS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTRAFS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.CXPCPIS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.NOMEMPS8.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.PROVES06.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.MONEDS01.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.snRESPON.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.DIVISS01.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.TASASS01.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTAFGC0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTCDAM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTCUTCB.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTMAFC0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTPRVB.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTRESN0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTUBIM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTTMAM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTTACM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTMARM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTTSAM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTCDUM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTVCDM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.ACTRAFM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.CXPCPIM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.MONEDM02.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.NOMEMPC0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.PIDE_DATOS.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.PIDE_PROD_FEC.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.PROVEM03.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.msRESPON.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.DIVISM01.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.PROVEM10.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.TASASG01.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.TASASM01.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.Resources.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\Admin.Principal.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\ADMACT.vbproj.GenerateResource.Cache
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\ADMACT.exe
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\ADMACT.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\ADMACT\Admin\obj\x86\Release\ADMACT.pdb

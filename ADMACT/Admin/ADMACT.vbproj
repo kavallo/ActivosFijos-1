@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AF8E81CB-009F-426A-B09B-560AC6929900}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Admin.My.MyApplication</StartupObject>
+    <RootNamespace>Admin</RootNamespace>
+    <AssemblyName>ADMACT</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ADMACT.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ADMACT.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Admin.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Citi.Synergia.DB">
+      <HintPath>..\..\DB\bin\Debug\Citi.Synergia.DB.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.Entidades">
+      <HintPath>..\..\Entidades\bin\Debug\Citi.Synergia.Entidades.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.HelperClient, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\HelperClient\bin\Debug\Citi.Synergia.HelperClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.Iconos">
+      <HintPath>..\..\Iconos\Iconos\bin\Debug\Citi.Synergia.Iconos.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.Locals">
+      <HintPath>..\..\Locals\bin\Debug\Citi.Synergia.Locals.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.Reports, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Reports\Reports\bin\Debug\Citi.Synergia.Reports.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.Security, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Security\bin\Debug\Citi.Synergia.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.SPCComunes">
+      <HintPath>..\..\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.Traductor">
+      <HintPath>..\..\Traductor\bin\Debug\Citi.Synergia.Traductor.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.UIGenerico">
+      <HintPath>..\..\UIGenerico\bin\Debug\Citi.Synergia.UIGenerico.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="FInicio.Designer.vb">
+      <DependentUpon>FInicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FInicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Globals.vb" />
+    <Compile Include="Listas\ACTCDAS0.Designer.vb">
+      <DependentUpon>ACTCDAS0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ACTCDAS0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ACTCUTC.Designer.vb">
+      <DependentUpon>ACTCUTC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ACTCUTC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ACTMAFSA4.designer.vb">
+      <DependentUpon>ACTMAFSA4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ACTMAFSA4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ACTMARS0.Designer.vb">
+      <DependentUpon>ACTMARS0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ACTMARS0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ACTPRV.Designer.vb">
+      <DependentUpon>ACTPRV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ACTPRV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ACTUBIS0.Designer.vb">
+      <DependentUpon>ACTUBIS0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ACTUBIS0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ACTTMAS0.Designer.vb">
+      <DependentUpon>ACTTMAS0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ACTTMAS0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ACTTACS0.Designer.vb">
+      <DependentUpon>ACTTACS0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ACTTACS0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ACTTSAS0.Designer.vb">
+      <DependentUpon>ACTTSAS0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ACTTSAS0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ACTCDUS0.Designer.vb">
+      <DependentUpon>ACTCDUS0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ACTCDUS0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ACTVCDS0.Designer.vb">
+      <DependentUpon>ACTVCDS0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ACTVCDS0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\ACTRAFS0.Designer.vb">
+      <DependentUpon>ACTRAFS0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\ACTRAFS0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\CXPCPIS0.Designer.vb">
+      <DependentUpon>CXPCPIS0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\CXPCPIS0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\NOMEMPS8.Designer.vb">
+      <DependentUpon>NOMEMPS8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\NOMEMPS8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\PROVES06.Designer.vb">
+      <DependentUpon>PROVES06.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\PROVES06.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\MONEDS01.Designer.vb">
+      <DependentUpon>MONEDS01.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\MONEDS01.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\snRESPON.Designer.vb">
+      <DependentUpon>snRESPON.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\snRESPON.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\DIVISS01.Designer.vb">
+      <DependentUpon>DIVISS01.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\DIVISS01.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\TASASS01.Designer.vb">
+      <DependentUpon>TASASS01.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Listas\TASASS01.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\ACTAFGC0.designer.vb">
+      <DependentUpon>ACTAFGC0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\ACTAFGC0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\ACTCDAM0.Designer.vb">
+      <DependentUpon>ACTCDAM0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\ACTCDAM0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\ACTCUTCB.Designer.vb">
+      <DependentUpon>ACTCUTCB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\ACTCUTCB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\ACTMAFC0.designer.vb">
+      <DependentUpon>ACTMAFC0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\ACTMAFC0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\ACTPRVB.Designer.vb">
+      <DependentUpon>ACTPRVB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\ACTPRVB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\ACTRESN0.Designer.vb">
+      <DependentUpon>ACTRESN0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\ACTRESN0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\ACTUBIM0.Designer.vb">
+      <DependentUpon>ACTUBIM0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\ACTUBIM0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\ACTTMAM0.Designer.vb">
+      <DependentUpon>ACTTMAM0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\ACTTMAM0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\ACTTACM0.Designer.vb">
+      <DependentUpon>ACTTACM0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\ACTTACM0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\ACTMARM0.Designer.vb">
+      <DependentUpon>ACTMARM0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\ACTMARM0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\ACTTSAM0.Designer.vb">
+      <DependentUpon>ACTTSAM0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\ACTTSAM0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\ACTCDUM0.Designer.vb">
+      <DependentUpon>ACTCDUM0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\ACTCDUM0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\ACTVCDM0.Designer.vb">
+      <DependentUpon>ACTVCDM0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\ACTVCDM0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\ACTRAFM0.Designer.vb">
+      <DependentUpon>ACTRAFM0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\ACTRAFM0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\CXPCPIM0.Designer.vb">
+      <DependentUpon>CXPCPIM0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\CXPCPIM0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\MONEDM02.Designer.vb">
+      <DependentUpon>MONEDM02.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\MONEDM02.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\NOMEMPC0.Designer.vb">
+      <DependentUpon>NOMEMPC0.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\NOMEMPC0.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\PIDE_DATOS.Designer.vb">
+      <DependentUpon>PIDE_DATOS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\PIDE_DATOS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\PIDE_PROD_FEC.Designer.vb">
+      <DependentUpon>PIDE_PROD_FEC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\PIDE_PROD_FEC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\PROVEM03.Designer.vb">
+      <DependentUpon>PROVEM03.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\PROVEM03.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\msRESPON.Designer.vb">
+      <DependentUpon>msRESPON.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\msRESPON.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\DIVISM01.Designer.vb">
+      <DependentUpon>DIVISM01.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\DIVISM01.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\PROVEM10.Designer.vb">
+      <DependentUpon>PROVEM10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\PROVEM10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\TASASG01.Designer.vb">
+      <DependentUpon>TASASG01.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\TASASG01.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantos\TASASM01.Designer.vb">
+      <DependentUpon>TASASM01.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Mantos\TASASM01.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.vb">
+      <DependentUpon>Principal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FInicio.resx">
+      <DependentUpon>FInicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ACTCDAS0.resx">
+      <DependentUpon>ACTCDAS0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ACTCUTC.resx">
+      <DependentUpon>ACTCUTC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ACTMAFSA4.resx">
+      <DependentUpon>ACTMAFSA4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ACTMARS0.resx">
+      <DependentUpon>ACTMARS0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ACTPRV.resx">
+      <DependentUpon>ACTPRV.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ACTUBIS0.resx">
+      <DependentUpon>ACTUBIS0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ACTTMAS0.resx">
+      <DependentUpon>ACTTMAS0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ACTTACS0.resx">
+      <DependentUpon>ACTTACS0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ACTTSAS0.resx">
+      <DependentUpon>ACTTSAS0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ACTCDUS0.resx">
+      <DependentUpon>ACTCDUS0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ACTVCDS0.resx">
+      <DependentUpon>ACTVCDS0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\ACTRAFS0.resx">
+      <DependentUpon>ACTRAFS0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\CXPCPIS0.resx">
+      <DependentUpon>CXPCPIS0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\NOMEMPS8.resx">
+      <DependentUpon>NOMEMPS8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\PROVES06.resx">
+      <DependentUpon>PROVES06.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\MONEDS01.resx">
+      <DependentUpon>MONEDS01.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\snRESPON.resx">
+      <DependentUpon>snRESPON.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\DIVISS01.resx">
+      <DependentUpon>DIVISS01.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\TASASS01.resx">
+      <DependentUpon>TASASS01.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\ACTAFGC0.resx">
+      <DependentUpon>ACTAFGC0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\ACTCDAM0.resx">
+      <DependentUpon>ACTCDAM0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\ACTCUTCB.resx">
+      <DependentUpon>ACTCUTCB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\ACTMAFC0.resx">
+      <DependentUpon>ACTMAFC0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\ACTPRVB.resx">
+      <DependentUpon>ACTPRVB.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\ACTRESN0.resx">
+      <DependentUpon>ACTRESN0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\ACTUBIM0.resx">
+      <DependentUpon>ACTUBIM0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\ACTTMAM0.resx">
+      <DependentUpon>ACTTMAM0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\ACTTACM0.resx">
+      <DependentUpon>ACTTACM0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\ACTMARM0.resx">
+      <DependentUpon>ACTMARM0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\ACTTSAM0.resx">
+      <DependentUpon>ACTTSAM0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\ACTCDUM0.resx">
+      <DependentUpon>ACTCDUM0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\ACTVCDM0.resx">
+      <DependentUpon>ACTVCDM0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\ACTRAFM0.resx">
+      <DependentUpon>ACTRAFM0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\CXPCPIM0.resx">
+      <DependentUpon>CXPCPIM0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\MONEDM02.resx">
+      <DependentUpon>MONEDM02.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\NOMEMPC0.resx">
+      <DependentUpon>NOMEMPC0.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\PIDE_DATOS.resx">
+      <DependentUpon>PIDE_DATOS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\PIDE_PROD_FEC.resx">
+      <DependentUpon>PIDE_PROD_FEC.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\PROVEM03.resx">
+      <DependentUpon>PROVEM03.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\msRESPON.resx">
+      <DependentUpon>msRESPON.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\DIVISM01.resx">
+      <DependentUpon>DIVISM01.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\PROVEM10.resx">
+      <DependentUpon>PROVEM10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\TASASG01.resx">
+      <DependentUpon>TASASG01.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantos\TASASM01.resx">
+      <DependentUpon>TASASM01.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon 234.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Admin.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

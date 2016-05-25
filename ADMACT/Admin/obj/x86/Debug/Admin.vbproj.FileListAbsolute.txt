@@ -1,0 +1,283 @@
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Admin.exe.config
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Admin.exe
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Admin.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Admin.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.Resources.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.exe
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.Principal.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Security.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Security.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Security.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Locals.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Locals.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.DB.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.DB.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.DB.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.SPCComunes.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.SPCComunes.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTMARS0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.FInicio.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTMARM0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTUBIS0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTUBIM0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.DIVISS01.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.DIVISM01.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTMAS0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTMAM0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.snRESPON.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.msRESPON.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.MONEDS01.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.PROVES06.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTACS0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTACM0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.PROVEM03.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTSAS0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTSAM0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCDUS0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCDUM0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTVCDS0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTVCDM0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTRAFS0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTRAFM0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCDAS0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCDAM0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTPRV.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTPRVB.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCUTC.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCUTCB.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Admin.exe.config
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.exe
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.xml
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.pdb
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.FInicio.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCDAS0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCUTC.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTMARS0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTPRV.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTUBIS0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTMAS0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTACS0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTSAS0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCDUS0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTVCDS0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTRAFS0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.PROVES06.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.MONEDS01.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.snRESPON.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.DIVISS01.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCDAM0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCUTCB.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTPRVB.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTUBIM0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTMAM0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTACM0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTMARM0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTSAM0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCDUM0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTVCDM0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTRAFM0.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.PROVEM03.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.msRESPON.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.DIVISM01.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.Resources.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\Admin.Principal.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Admin.exe
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Admin.pdb
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Admin.xml
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.DB.dll
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Security.dll
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.SPCComunes.dll
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.DB.pdb
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.DB.xml
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Security.pdb
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Security.xml
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.SPCComunes.xml
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Admin.exe.config
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.exe
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.xml
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.pdb
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Admin.exe
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Admin.pdb
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Admin.xml
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.DB.dll
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.Locals.dll
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.Security.dll
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.SPCComunes.dll
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.DB.pdb
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.DB.xml
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.Locals.xml
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.Security.pdb
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.Security.xml
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.SPCComunes.xml
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.FInicio.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTCDAS0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTCUTC.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTMARS0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTPRV.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTUBIS0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTTMAS0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTTACS0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTTSAS0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTCDUS0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTVCDS0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTRAFS0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.PROVES06.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.MONEDS01.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.snRESPON.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.DIVISS01.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTCDAM0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTCUTCB.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTPRVB.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTUBIM0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTTMAM0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTTACM0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTMARM0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTTSAM0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTCDUM0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTVCDM0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.ACTRAFM0.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.PROVEM03.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.msRESPON.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.DIVISM01.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.Resources.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\Admin.Principal.resources
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Software\Citi\ActivosFijos\Entrega\Admin\Admin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Admin.exe.config
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.exe
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Admin.exe
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Admin.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Admin.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.DB.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Security.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.SPCComunes.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.DB.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.DB.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Security.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Security.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.SPCComunes.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.FInicio.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCDAS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCUTC.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTMARS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTPRV.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTUBIS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTMAS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTACS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTSAS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCDUS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTVCDS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTRAFS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.PROVES06.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.MONEDS01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.snRESPON.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.DIVISS01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCDAM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCUTCB.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTPRVB.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTUBIM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTMAM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTACM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTMARM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTTSAM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTCDUM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTVCDM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTRAFM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.PROVEM03.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.msRESPON.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.DIVISM01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.Resources.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.Principal.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.MONEDM02.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTMAFSA4.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTAFGC0A.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTMAFC0A.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.ReportesActivosFijos.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.ReportesActivosFijos.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.ReportesActivosFijos.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.TASASS01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.TASASM01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.PIDE_DATOS.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.TASASG01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.PIDE_PROD_FEC.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.PROVEM10.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.CXPCPIS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.CXPCPIM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\obj\x86\Debug\Admin.ACTRESN0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Iconos.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Iconos.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Admin\Admin\bin\Debug\Citi.Synergia.Iconos.xml
