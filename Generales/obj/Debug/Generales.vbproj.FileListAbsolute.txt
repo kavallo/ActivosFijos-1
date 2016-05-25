@@ -1,0 +1,48 @@
+C:\Software\Citi\ActivosFijos\Prototipo\Generales\bin\Debug\Generales.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Generales\bin\Debug\Generales.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Generales\bin\Debug\Generales.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Generales\obj\Debug\ResolveAssemblyReference.cache
+C:\Software\Citi\ActivosFijos\Prototipo\Generales\obj\Debug\Generales.Resources.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Generales\obj\Debug\GenerateResource.read.1.tlog
+C:\Software\Citi\ActivosFijos\Prototipo\Generales\obj\Debug\GenerateResource.write.1.tlog
+C:\Software\Citi\ActivosFijos\Prototipo\Generales\obj\Debug\Generales.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Generales\obj\Debug\Generales.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Generales\obj\Debug\Generales.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Generales\bin\Debug\Generales.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Generales\bin\Debug\Generales.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Generales\bin\Debug\Generales.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Generales\obj\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Generales\obj\Debug\Generales.Resources.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Generales\obj\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Generales\obj\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Generales\obj\Debug\Generales.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Generales\obj\Debug\Generales.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Generales\obj\Debug\Generales.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Generales\bin\Debug\Generales.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Generales\bin\Debug\Generales.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Generales\bin\Debug\Generales.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Generales\obj\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Generales\obj\Debug\Generales.Resources.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Generales\obj\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Generales\obj\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Generales\obj\Debug\Generales.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Generales\obj\Debug\Generales.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Generales\obj\Debug\Generales.pdb
+C:\Synergia\FuentesDEV\Modulos\Generales\bin\Debug\Generales.dll
+C:\Synergia\FuentesDEV\Modulos\Generales\bin\Debug\Generales.pdb
+C:\Synergia\FuentesDEV\Modulos\Generales\bin\Debug\Generales.xml
+C:\Synergia\FuentesDEV\Modulos\Generales\obj\Debug\ResolveAssemblyReference.cache
+C:\Synergia\FuentesDEV\Modulos\Generales\obj\Debug\Generales.Resources.resources
+C:\Synergia\FuentesDEV\Modulos\Generales\obj\Debug\GenerateResource.read.1.tlog
+C:\Synergia\FuentesDEV\Modulos\Generales\obj\Debug\GenerateResource.write.1.tlog
+C:\Synergia\FuentesDEV\Modulos\Generales\obj\Debug\Generales.dll
+C:\Synergia\FuentesDEV\Modulos\Generales\obj\Debug\Generales.xml
+C:\Synergia\FuentesDEV\Modulos\Generales\obj\Debug\Generales.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Generales\bin\Debug\Generales.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Generales\bin\Debug\Generales.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Generales\bin\Debug\Generales.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Generales\obj\Debug\Generales.Resources.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Generales\obj\Debug\Generales.vbproj.GenerateResource.Cache
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Generales\obj\Debug\Generales.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Generales\obj\Debug\Generales.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Generales\obj\Debug\Generales.pdb
