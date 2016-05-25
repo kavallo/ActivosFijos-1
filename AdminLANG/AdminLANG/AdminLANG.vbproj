@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{48529CFE-B5FF-45EE-9D91-17617053DD98}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AdminLANG.My.MyApplication</StartupObject>
+    <RootNamespace>AdminLANG</RootNamespace>
+    <AssemblyName>AdminLANG</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AdminLANG.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AdminLANG.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Dictionary.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Citi.Synergia.DB">
+      <HintPath>..\..\DB\bin\Debug\Citi.Synergia.DB.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.Entidades">
+      <HintPath>..\..\Entidades\bin\Debug\Citi.Synergia.Entidades.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.HelperClient, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\HelperClient\bin\Debug\Citi.Synergia.HelperClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.Locals">
+      <HintPath>..\..\Locals\bin\Debug\Citi.Synergia.Locals.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.Security, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Security\bin\Debug\Citi.Synergia.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.Traductor">
+      <HintPath>..\..\Traductor\bin\Debug\Citi.Synergia.Traductor.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FAplicacionAgregar.Designer.vb">
+      <DependentUpon>FAplicacionAgregar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FAplicacionAgregar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAplicaciones.Designer.vb">
+      <DependentUpon>FAplicaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FAplicaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAplicacionManto.Designer.vb">
+      <DependentUpon>FAplicacionManto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FAplicacionManto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FControlAgregar.Designer.vb">
+      <DependentUpon>FControlAgregar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FControlAgregar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FControlesManto.Designer.vb">
+      <DependentUpon>FControlesManto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FControlesManto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FFormaAgregar.Designer.vb">
+      <DependentUpon>FFormaAgregar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FFormaAgregar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FMensajeAgregar.Designer.vb">
+      <DependentUpon>FMensajeAgregar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FMensajeAgregar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FMensajes.Designer.vb">
+      <DependentUpon>FMensajes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FMensajes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Globals.vb" />
+    <Compile Include="Helper.vb" />
+    <Compile Include="Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.vb">
+      <DependentUpon>Principal.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FAplicacionAgregar.resx">
+      <DependentUpon>FAplicacionAgregar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FAplicaciones.resx">
+      <DependentUpon>FAplicaciones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FAplicacionManto.resx">
+      <DependentUpon>FAplicacionManto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FControlAgregar.resx">
+      <DependentUpon>FControlAgregar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FControlesManto.resx">
+      <DependentUpon>FControlesManto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FFormaAgregar.resx">
+      <DependentUpon>FFormaAgregar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FMensajeAgregar.resx">
+      <DependentUpon>FMensajeAgregar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FMensajes.resx">
+      <DependentUpon>FMensajes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Dictionary.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

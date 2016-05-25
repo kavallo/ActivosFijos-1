@@ -1,0 +1,23 @@
+<ROOT>
+   <COMPANIAS>
+      <LINEA Indice='1' Servidor='.' BaseDeDatos='ActivosTT_DATA' Descripcion='Activos Fijos (DATA)' LegalEntity='' Country='' BatchCode='' TransactionCodeDebit='' TransactionCodeCredit=''/> 
+      <LINEA Indice='2' Servidor='.' BaseDeDatos='ActivosTT_Demo' Descripcion='Activos Fijos (DEMO)' LegalEntity='' Country='' BatchCode='' TransactionCodeDebit='' TransactionCodeCredit=''/>
+      <LINEA Indice='3' Servidor='.' BaseDeDatos='ActivosERROR' Descripcion='Activos Fijos (ERROR)' LegalEntity='' Country='' BatchCode='' TransactionCodeDebit='' TransactionCodeCredit=''/>
+	  <LINEA Indice="4" Servidor="SYNERGIA-DEV01\SQL2014" BaseDeDatos="FixedAssets" Descripcion="Fixed Assets (Framework)" LegalEntity="" Country="" BatchCode="" TransactionCodeDebit="" TransactionCodeCredit="" BranchCode="" BranchCodeLength="" ADEComplement="" ADEComplementLength=""/>
+   </COMPANIAS>
+   <CONFIGURACION>
+     <IDIOMAS UtilizarIdiomas='1' CrearIdiomas='0'>
+       <LINEA Codigo='SP' Descripcion='Spanish'/>
+       <LINEA Codigo='EN' Descripcion='English'/>
+     </IDIOMAS>
+     <GENERALES>
+        <baseDeDatos>
+           <numeroRegistrosEnGrid>50</numeroRegistrosEnGrid>
+        </baseDeDatos>
+     </GENERALES>
+   </CONFIGURACION>
+   <SecuritySG>
+     <ApplicationID>123</ApplicationID>
+     <PathConfigXmlSG>C:\Hugo\Synergia\Activos Fijos\VS2010\Archivos Fijos\ConfigSG.Xml</PathConfigXmlSG>
+   </SecuritySG>
+</ROOT>
