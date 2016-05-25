@@ -1,0 +1,76 @@
+C:\Documents and Settings\rl29066\Desktop\SGSynergia\SGSynergia\bin\Release\SGSynergia.dll.config
+C:\Documents and Settings\rl29066\Desktop\SGSynergia\SGSynergia\bin\Release\SGSynergia.dll
+C:\Documents and Settings\rl29066\Desktop\SGSynergia\SGSynergia\bin\Release\SGSynergia.pdb
+C:\Documents and Settings\rl29066\Desktop\SGSynergia\SGSynergia\bin\Release\SGSynergia.xml
+C:\Documents and Settings\rl29066\Desktop\SGSynergia\SGSynergia\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\rl29066\Desktop\SGSynergia\SGSynergia\obj\Release\SGSynergia.Resources.resources
+C:\Documents and Settings\rl29066\Desktop\SGSynergia\SGSynergia\obj\Release\SGSynergia.vbproj.GenerateResource.Cache
+C:\Documents and Settings\rl29066\Desktop\SGSynergia\SGSynergia\obj\Release\SGSynergia.dll
+C:\Documents and Settings\rl29066\Desktop\SGSynergia\SGSynergia\obj\Release\SGSynergia.xml
+C:\Documents and Settings\rl29066\Desktop\SGSynergia\SGSynergia\obj\Release\SGSynergia.pdb
+C:\Proyectos\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.dll.config
+C:\Proyectos\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.pdb
+C:\Proyectos\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.xml
+C:\Proyectos\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.tlb
+C:\Proyectos\Tools\SGSynergia\obj\Release\ResolveAssemblyReference.cache
+C:\Proyectos\Tools\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.Resources.resources
+C:\Proyectos\Tools\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.dll
+C:\Proyectos\Tools\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.xml
+C:\Proyectos\Tools\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.pdb
+L:\Desarrollo\Synergia\003 Proyectos\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.dll.config
+L:\Desarrollo\Synergia\003 Proyectos\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.dll
+L:\Desarrollo\Synergia\003 Proyectos\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.pdb
+L:\Desarrollo\Synergia\003 Proyectos\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.xml
+L:\Desarrollo\Synergia\003 Proyectos\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.tlb
+L:\Desarrollo\Synergia\003 Proyectos\Tools\SGSynergia\obj\Release\ResolveAssemblyReference.cache
+L:\Desarrollo\Synergia\003 Proyectos\Tools\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.Resources.resources
+L:\Desarrollo\Synergia\003 Proyectos\Tools\SGSynergia\obj\Release\SGSynergia.vbproj.GenerateResource.Cache
+L:\Desarrollo\Synergia\003 Proyectos\Tools\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.dll
+L:\Desarrollo\Synergia\003 Proyectos\Tools\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.xml
+L:\Desarrollo\Synergia\003 Proyectos\Tools\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.pdb
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.dll.config
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.dll
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.pdb
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.xml
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.tlb
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\obj\Release\ResolveAssemblyReference.cache
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.Resources.resources
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\obj\Release\SGSynergia.vbproj.GenerateResource.Cache
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.dll
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.xml
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.pdb
+C:\Proyectos\Tools v2\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.dll.config
+C:\Proyectos\Tools v2\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.dll
+C:\Proyectos\Tools v2\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.pdb
+C:\Proyectos\Tools v2\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.xml
+C:\Proyectos\Tools v2\SGSynergia\obj\Release\ResolveAssemblyReference.cache
+C:\Proyectos\Tools v2\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.Resources.resources
+C:\Proyectos\Tools v2\SGSynergia\obj\Release\SGSynergia.vbproj.GenerateResource.Cache
+C:\Proyectos\Tools v2\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.dll
+C:\Proyectos\Tools v2\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.xml
+C:\Proyectos\Tools v2\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.pdb
+C:\Proyectos\Tools v2\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.tlb
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.dll.config
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.dll
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.pdb
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.xml
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.tlb
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\obj\Release\ResolveAssemblyReference.cache
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.Resources.resources
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\obj\Release\SGSynergia.vbproj.GenerateResource.Cache
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.dll
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.xml
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.pdb
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.dll.config
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.pdb
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.xml
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.tlb
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\obj\Release\ResolveAssemblyReference.cache
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.Resources.resources
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\obj\Release\SGSynergia.vbproj.GenerateResource.Cache
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.dll
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.xml
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\SGSynergia\obj\Release\Citi.Synergia.SecuritySG.pdb
+C:\Proyectos\Tools\SGSynergia\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Proyectos\Tools\SGSynergia\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Proyectos\Tools\SGSynergia\bin\Release\Citi.Synergia.SecuritySG.dll

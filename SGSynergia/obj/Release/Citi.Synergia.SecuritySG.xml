@@ -1,0 +1,326 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Citi.Synergia.SecuritySG
+</name>
+</assembly>
+<members>
+<member name="P:Citi.Synergia.SecuritySG.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Citi.Synergia.SecuritySG.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Citi.Synergia.SecuritySG.Respuesta.#ctor">
+	<summary>
+Clase que almacena las respuestas de los métodos de la clase SGLibrary.dll
+</summary>
+</member><member name="M:Citi.Synergia.SecuritySG.ProcesosSG.#ctor(System.Int32,System.String,System.String,SGInterface@)">
+	<summary>
+ Constructor de la Clase SecurityGateway_Procesos
+ </summary>
+	<param name="appId">System Id #</param>
+	<param name="appName">Application Name </param>
+	<param name="pathConfigXml">Path del archivo config.xml utilizado por Security Gateway</param>
+</member><member name="M:Citi.Synergia.SecuritySG.ProcesosSG.login(System.String,System.String)">
+	<summary>
+ Función que realiza proceso de login para un usuario y contraseña especificado por el usuario
+ y que dependiendo de la respuesta de SG, se obtiene una clase con la información detallada.
+ </summary>
+	<param name="user">SSO user</param>
+	<param name="password">SSO password</param>
+	<returns></returns>
+</member><member name="P:Citi.Synergia.SecuritySG.iSGClienteServidor.appId">
+	<summary>
+ID del sistema/aplicación en la base de datos de Security Gateway.
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.iSGClienteServidor.appName">
+	<summary>
+Nombre del sistema/aplicación en la base de datos de Security Gateway.
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.iSGClienteServidor.pathConfigXml">
+	<summary>
+Directorio donde se encuentra ubicado el archivo config.xml que es utilizado internamente por Security Gateway.
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.iSGClienteServidor.ImplementaGUI">
+	<summary>
+Asigna o retorna: Verdadero si se utiliza la interfase grafica provista por Security Gateway.
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.iSGClienteServidor.stringFuncionesID">
+	<summary>
+Listado de IDs de las opciones disponibles para el usuario registradas en el servidor de Security Gateway.
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.iSGClienteServidor.stringFuncionesDescripcion">
+	<summary>
+Listado de descripciones de las opciones disponibles para el usuario registradas en el servidor de Security Gateway.
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.iSGClienteServidor.sesionIniciada">
+	<summary>
+Indica si se tiene una sesión iniciada.
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.iSGClienteServidor.usernameSecurityGateway">
+	<summary>
+Username de Security Gateway
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.iSGClienteServidor.passwordSecurityGateway">
+	<summary>
+Password que corresponde al username de Security Gateway
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.iSGClienteServidor.credencialesExternasusername">
+	<summary>
+Username de Conexion para base de datos
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.iSGClienteServidor.CredencialesExternaspassword">
+	<summary>
+Password de conexion para base de datos
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.iSGClienteServidor.objetoSGLibrary">
+	<summary>
+Objeto/instancia de SGLibrary (Security Gateway)
+</summary>
+</member><member name="M:Citi.Synergia.SecuritySG.iSGClienteServidor.Login(System.String,System.String,System.String@)">
+	<summary>
+Función que realiza el proceso de Login hacia el servidor de Security Gateway.
+</summary>
+	<param name="username">Usuario almacenado en base de datos de Security Gateway</param>
+	<param name="password">Contraseña que corresponde al usuario registrado en base de datos de Security Gateway</param>
+</member><member name="M:Citi.Synergia.SecuritySG.iSGClienteServidor.RSMSLogin(System.String@)">
+	<summary>
+Función que realiza el proceso de Login Utilizando Interfase Grafica hacia el servidor de Security Gateway.
+</summary>
+</member><member name="M:Citi.Synergia.SecuritySG.iSGClienteServidor.Logout(System.String@)">
+	<summary>
+Función que realiza el proceso de Logout hacia el servidor de Security Gateway.
+</summary>
+</member><member name="M:Citi.Synergia.SecuritySG.iSGClienteServidor.TraerPermisosAcceso(System.Int32,System.String,System.String,System.String,System.Boolean,System.String@)">
+	<summary>
+Función que se conecta al servidor de Security Gateway y guarda en la memoria los permisos de acceso que tiene el usuario.
+Ejecuta las funciones de login, consulta de permisos y logout (opcional). Devuelve True en caso de haber finalizado exitosamente el proceso.
+</summary>
+	<param name="idApp">ID de la aplicación/sistema en la base de datos de Security Gateway</param>
+	<param name="nameApp">Nombre de la aplicación/sistema en la base de datos de Security Gateway</param>
+	<param name="username">Usuario almacenado en la base de datos de Security Gateway</param>
+	<param name="password">Contraseña que corresponde al usuario registrado en la base de datos de Security Gateway</param>
+	<param name="logout">Indica si después de la consulta de permisos al servidor de Security Gateway se hará Logout.</param>
+</member><member name="M:Citi.Synergia.SecuritySG.iSGClienteServidor.TraerPermisosAcceso(System.Int32,System.String,System.Boolean,System.String@)">
+	<summary>
+Función que se conecta al servidor de Security Gateway y guarda en la memoria los permisos de acceso que tiene el usuario.
+Ejecuta las funciones de login, consulta de permisos y logout (opcional). Devuelve True en caso de haber finalizado exitosamente el proceso.
+</summary>
+	<param name="idApp">ID de la aplicación/sistema en la base de datos de Security Gateway</param>
+	<param name="nameApp">Nombre de la aplicación/sistema en la base de datos de Security Gateway</param>
+	<param name="logout">Indica si después de la consulta de permisos al servidor de Security Gateway se hará Logout.</param>
+</member><member name="M:Citi.Synergia.SecuritySG.iSGClienteServidor.TraerPermisosAcceso(System.String,System.String,System.Boolean,System.String@)">
+	<summary>
+Función que se conecta al servidor de Security Gateway y guarda en la memoria los permisos de acceso que tiene el usuario.
+Ejecuta las funciones de login, consulta de permisos y logout (opcional). Devuelve True en caso de haber finalizado exitosamente el proceso.
+</summary>
+	<param name="username">Usuario almacenado en la base de datos de Security Gateway</param>
+	<param name="password">Contraseña que corresponde al usuario registrado en la base de datos de Security Gateway</param>
+	<param name="logout">Indica si después de la consulta de permisos al servidor de Security Gateway se hará Logout.</param>
+</member><member name="M:Citi.Synergia.SecuritySG.iSGClienteServidor.ChangePassword(System.String,System.String,System.String,System.String,System.String@)">
+	<summary>
+Función que realiza el proceso de cambio de password en el servidor de Security Gateway.
+</summary>
+	<param name="username">Usuario almacenado en base de datos de Security Gateway</param>
+	<param name="password">Contraseña actual que corresponde al usuario registrado en base de datos de Security Gateway</param>
+	<param name="newPassword">Nueva contraseña para el usuario registrado en base de datos de Security Gateway</param>
+	<param name="reTypeNewPassword">Confirmación de la nueva contraseña para el usuario registrado en base de datos de Security Gateway</param>
+</member><member name="M:Citi.Synergia.SecuritySG.iSGClienteServidor.TienePermisoAcceso(System.String,System.String@)">
+	<summary>
+Función que devuelve True si el usuario tiene permiso de acceso a la función de Security Gateway especificada.
+Devuelve False en caso contrario.
+</summary>
+	<param name="codigoAcceso">Código del acceso contenido en la descripción de función de Security Gateway</param>
+</member><member name="M:Citi.Synergia.SecuritySG.iSGClienteServidor.TienePermisoAcceso(System.String,System.Boolean,System.Boolean,System.String@)">
+	<summary>
+ Función que devuelve True si el usuario tiene permiso de acceso a la función de Security Gateway especificada con opcion a guardar auditoria en SG
+ </summary>
+	<param name="codigoAcceso"> Código del Acceso contenido en la descripcion de SG</param>
+	<param name="grabaAuditoria">Verdadero: llama a la función AuditLog de SG</param>
+	<param name="muestraMensaje">Verdadero: Muestra un MsgBox si el usuario no tiene permisos</param>
+	<param name="errorMessage">Variable de salida con descripcion si algun error ocurriera dentro del procedimiento</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Citi.Synergia.SecuritySG.iSGClienteServidor.ListadoTodosPermisosAcceso">
+	<summary>
+Función que devuelve el listado de permisos de acceso que tiene el usuario en Security Gateway.
+</summary>
+</member><member name="M:Citi.Synergia.SecuritySG.iSGClienteServidor.obtenerCredencialesExternas(System.String,System.String,System.String@,System.String@,System.String@)">
+	<summary>
+Función que realiza el proceso de cambio de password en el servidor de Security Gateway.
+</summary>
+	<param name="username">Usuario registrado en base de datos de Security Gateway</param>
+	<param name="password">Contraseña que corresponde al usuario registrado en base de datos de Security Gateway</param>
+	<param name="credencialesExternas_username">Username de las credenciales externas devueltas por Security Gateway</param>
+	<param name="credencialesExternas_password">Password de las credenciales externas devueltas por Security Gateway</param>
+</member><member name="M:Citi.Synergia.SecuritySG.iSGClienteServidor.obtenerCredencialesExternas(System.String@,System.String@,System.String@)">
+	<summary>
+Función que realiza el proceso de cambio de password en el servidor de Security Gateway.
+</summary>
+	<param name="credencialesExternas_username">Username de las credenciales externas devueltas por Security Gateway</param>
+	<param name="credencialesExternas_password">Password de las credenciales externas devueltas por Security Gateway</param>
+</member><member name="P:Citi.Synergia.SecuritySG.SGClienteServidor.appId">
+	<summary>
+ID del sistema/aplicación en la base de datos de Security Gateway.
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.SGClienteServidor.appName">
+	<summary>
+Nombre del sistema/aplicación en la base de datos de Security Gateway.
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.SGClienteServidor.pathConfigXml">
+	<summary>
+Directorio donde se encuentra ubicado el archivo config.xml que es utilizado internamente por Security Gateway.
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.SGClienteServidor.ImplementaGUI">
+	<summary>
+Asigna o retorna: Verdadero si se utiliza la interfase grafica provista por Security Gateway.
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.SGClienteServidor.stringFuncionesID">
+	<summary>
+Listado de IDs de las opciones disponibles para el usuario registradas en el servidor de Security Gateway.
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.SGClienteServidor.stringFuncionesDescripcion">
+	<summary>
+Listado de descripciones de las opciones disponibles para el usuario registradas en el servidor de Security Gateway.
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.SGClienteServidor.sesionIniciada">
+	<summary>
+Indica si se tiene una sesión iniciada.
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.SGClienteServidor.usernameSecurityGateway">
+	<summary>
+Username de Security Gateway
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.SGClienteServidor.passwordSecurityGateway">
+	<summary>
+Password que corresponde al username de Security Gateway
+</summary>
+</member><member name="P:Citi.Synergia.SecuritySG.SGClienteServidor.credencialesExternasUsername">
+	<summary>
+ Username para conexion con base de datos
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Citi.Synergia.SecuritySG.SGClienteServidor.credencialesExternasPassword">
+	<summary>
+ Password para conexion con Base de datos
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Citi.Synergia.SecuritySG.SGClienteServidor.objetoSGLibrary">
+	<summary>
+Objeto/instancia de SGLibrary (Security Gateway)
+</summary>
+</member><member name="M:Citi.Synergia.SecuritySG.SGClienteServidor.#ctor">
+	<summary>
+ Constructor de la Clase SecurityGateway_Procesos
+ </summary>
+</member><member name="M:Citi.Synergia.SecuritySG.SGClienteServidor.#ctor(System.Int32,System.String)">
+	<summary>
+ Constructor de la Clase SecurityGateway_Procesos
+ </summary>
+	<param name="appId">System Id #</param>
+	<param name="appName">Application Name </param>
+</member><member name="M:Citi.Synergia.SecuritySG.SGClienteServidor.#ctor(System.Int32,System.String,System.String)">
+	<summary>
+ Constructor de la Clase SecurityGateway_Procesos
+ </summary>
+	<param name="appId">System Id #</param>
+	<param name="appName">Application Name </param>
+	<param name="pathArchivoConfigXml">Path del archivo config.xml utilizado por Security Gateway</param>
+</member><member name="M:Citi.Synergia.SecuritySG.SGClienteServidor.Login(System.String,System.String,System.String@)">
+	<summary>
+Función que realiza el proceso de Login hacia el servidor de Security Gateway.
+</summary>
+	<param name="username">Usuario almacenado en la base de datos de Security Gateway.</param>
+	<param name="password">Contraseña que corresponde al usuario registrado en la base de datos de Security Gateway.</param>
+</member><member name="M:Citi.Synergia.SecuritySG.SGClienteServidor.RSMSLogin(System.String@)">
+	<summary>
+Función que realiza el proceso de Login Implementando Interfase Grafica hacia el servidor de Security Gateway.
+</summary>
+</member><member name="M:Citi.Synergia.SecuritySG.SGClienteServidor.Logout(System.String@)">
+	<summary>
+Función que realiza el proceso de Logout hacia el servidor de Security Gateway.
+</summary>
+</member><member name="M:Citi.Synergia.SecuritySG.SGClienteServidor.TraerPermisosAcceso(System.Int32,System.String,System.String,System.String,System.Boolean,System.String@)">
+	<summary>
+Función que se conecta al servidor de Security Gateway y guarda en la memoria los permisos de acceso que tiene el usuario.
+Ejecuta las funciones de login, consulta de permisos y logout (opcional). Devuelve True en caso de haber finalizado exitosamente el proceso.
+</summary>
+	<param name="idApp">ID de la aplicación/sistema en la base de datos de Security Gateway</param>
+	<param name="nameApp">Nombre de la aplicación/sistema en la base de datos de Security Gateway</param>
+	<param name="username">Usuario almacenado en la base de datos de Security Gateway</param>
+	<param name="password">Contraseña que corresponde al usuario registrado en la base de datos de Security Gateway</param>
+	<param name="logout">Indica si después de la consulta de permisos al servidor de Security Gateway se hará Logout.</param>
+</member><member name="M:Citi.Synergia.SecuritySG.SGClienteServidor.TraerPermisosAcceso(System.Int32,System.String,System.Boolean,System.String@)">
+	<summary>
+Función que se conecta al servidor de Security Gateway y guarda en la memoria los permisos de acceso que tiene el usuario.
+Ejecuta las funciones de login, consulta de permisos y logout (opcional). Devuelve True en caso de haber finalizado exitosamente el proceso.
+</summary>
+	<param name="idApp">ID de la aplicación/sistema en la base de datos de Security Gateway</param>
+	<param name="nameApp">Nombre de la aplicación/sistema en la base de datos de Security Gateway</param>
+	<param name="logout">Indica si después de la consulta de permisos al servidor de Security Gateway se hará Logout.</param>
+</member><member name="M:Citi.Synergia.SecuritySG.SGClienteServidor.TraerPermisosAcceso(System.String,System.String,System.Boolean,System.String@)">
+	<summary>
+Función que se conecta al servidor de Security Gateway y guarda en la memoria los permisos de acceso que tiene el usuario.
+Ejecuta las funciones de login, consulta de permisos y logout (opcional). Devuelve True en caso de haber finalizado exitosamente el proceso.
+</summary>
+	<param name="username">Usuario almacenado en la base de datos de Security Gateway</param>
+	<param name="password">Contraseña que corresponde al usuario registrado en la base de datos de Security Gateway</param>
+	<param name="logout">Indica si después de la consulta de permisos al servidor de Security Gateway se hará Logout.</param>
+</member><member name="M:Citi.Synergia.SecuritySG.SGClienteServidor.ChangePassword(System.String,System.String,System.String,System.String,System.String@)">
+	<summary>
+Función que realiza el proceso de cambio de password en el servidor de Security Gateway.
+</summary>
+	<param name="username">Usuario almacenado en base de datos de Security Gateway</param>
+	<param name="password">Contraseña actual que corresponde al usuario registrado en base de datos de Security Gateway</param>
+	<param name="newPassword">Nueva contraseña para el usuario registrado en base de datos de Security Gateway</param>
+	<param name="reTypeNewPassword">Confirmación de la nueva contraseña para el usuario registrado en base de datos de Security Gateway</param>
+</member><member name="M:Citi.Synergia.SecuritySG.SGClienteServidor.TienePermisoAcceso(System.String,System.String@)">
+	<summary>
+Función que devuelve True si el usuario tiene permiso de acceso a la función de Security Gateway especificada.
+Devuelve False en caso contrario.
+</summary>
+	<param name="codigoAcceso">Código del acceso contenido en la descripción de función de Security Gateway</param>
+</member><member name="M:Citi.Synergia.SecuritySG.SGClienteServidor.ListadoTodosPermisosAcceso">
+	<summary>
+Función que devuelve el listado de permisos de acceso que tiene el usuario en Security Gateway.
+</summary>
+</member><member name="M:Citi.Synergia.SecuritySG.SGClienteServidor.obtenerCredencialesExternas(System.String,System.String,System.String@,System.String@,System.String@)">
+	<summary>
+Función que realiza el proceso de cambio de password en el servidor de Security Gateway.
+</summary>
+	<param name="username">Usuario registrado en base de datos de Security Gateway</param>
+	<param name="password">Contraseña que corresponde al usuario registrado en base de datos de Security Gateway</param>
+	<param name="credencialesExternas_username">Username de las credenciales externas devueltas por Security Gateway</param>
+	<param name="credencialesExternas_password">Password de las credenciales externas devueltas por Security Gateway</param>
+</member><member name="M:Citi.Synergia.SecuritySG.SGClienteServidor.obtenerCredencialesExternas(System.String@,System.String@,System.String@)">
+	<summary>
+Función que realiza el proceso de cambio de password en el servidor de Security Gateway.
+</summary>
+	<param name="credencialesExternas_username">Username de las credenciales externas devueltas por Security Gateway</param>
+	<param name="credencialesExternas_password">Password de las credenciales externas devueltas por Security Gateway</param>
+</member><member name="M:Citi.Synergia.SecuritySG.SGClienteServidor.TienePermisoAcceso(System.String,System.Boolean,System.Boolean,System.String@)">
+	<summary>
+ Función que devuelve True si el usuario tiene permiso de acceso a la función de Security Gateway especificada con opcion a guardar auditoria en SG
+ </summary>
+	<param name="codigoAcceso"> Código del Acceso contenido en la descripcion de SG</param>
+	<param name="grabaAuditoria">Verdadero: llama a la función AuditLog de SG</param>
+	<param name="muestraMensaje">Verdadero: Muestra un MsgBox si el usuario no tiene permisos</param>
+	<param name="errorMessage">Variable de salida con descripcion si algun error ocurriera dentro del procedimiento</param>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,33 @@
+C:\Documents and Settings\RL29066\My Documents\Proyectos Visual Studio 2008\SGSynergia\SGSynergia\bin\Debug\Citi.Synergia.SecuritySG.dll.config
+C:\Documents and Settings\RL29066\My Documents\Proyectos Visual Studio 2008\SGSynergia\SGSynergia\bin\Debug\Citi.Synergia.SecuritySG.dll
+C:\Documents and Settings\RL29066\My Documents\Proyectos Visual Studio 2008\SGSynergia\SGSynergia\bin\Debug\Citi.Synergia.SecuritySG.pdb
+C:\Documents and Settings\RL29066\My Documents\Proyectos Visual Studio 2008\SGSynergia\SGSynergia\bin\Debug\Citi.Synergia.SecuritySG.xml
+C:\Documents and Settings\RL29066\My Documents\Proyectos Visual Studio 2008\SGSynergia\SGSynergia\bin\Debug\Citi.Synergia.SecuritySG.tlb
+C:\Documents and Settings\RL29066\My Documents\Proyectos Visual Studio 2008\SGSynergia\SGSynergia\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\RL29066\My Documents\Proyectos Visual Studio 2008\SGSynergia\SGSynergia\obj\Debug\Citi.Synergia.SecuritySG.Resources.resources
+C:\Documents and Settings\RL29066\My Documents\Proyectos Visual Studio 2008\SGSynergia\SGSynergia\obj\Debug\SGSynergia.vbproj.GenerateResource.Cache
+C:\Documents and Settings\RL29066\My Documents\Proyectos Visual Studio 2008\SGSynergia\SGSynergia\obj\Debug\Citi.Synergia.SecuritySG.dll
+C:\Documents and Settings\RL29066\My Documents\Proyectos Visual Studio 2008\SGSynergia\SGSynergia\obj\Debug\Citi.Synergia.SecuritySG.xml
+C:\Documents and Settings\RL29066\My Documents\Proyectos Visual Studio 2008\SGSynergia\SGSynergia\obj\Debug\Citi.Synergia.SecuritySG.pdb
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\bin\Debug\Citi.Synergia.SecuritySG.dll.config
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\bin\Debug\Citi.Synergia.SecuritySG.dll
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\bin\Debug\Citi.Synergia.SecuritySG.pdb
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\bin\Debug\Citi.Synergia.SecuritySG.xml
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\bin\Debug\Citi.Synergia.SecuritySG.tlb
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\obj\Debug\ResolveAssemblyReference.cache
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\obj\Debug\Citi.Synergia.SecuritySG.Resources.resources
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\obj\Debug\SGSynergia.vbproj.GenerateResource.Cache
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\obj\Debug\Citi.Synergia.SecuritySG.dll
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\obj\Debug\Citi.Synergia.SecuritySG.xml
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\SGSynergia\obj\Debug\Citi.Synergia.SecuritySG.pdb
+C:\Proyectos\Tools v2\SGSynergia\bin\Debug\Citi.Synergia.SecuritySG.dll.config
+C:\Proyectos\Tools v2\SGSynergia\bin\Debug\Citi.Synergia.SecuritySG.dll
+C:\Proyectos\Tools v2\SGSynergia\bin\Debug\Citi.Synergia.SecuritySG.pdb
+C:\Proyectos\Tools v2\SGSynergia\bin\Debug\Citi.Synergia.SecuritySG.xml
+C:\Proyectos\Tools v2\SGSynergia\bin\Debug\Citi.Synergia.SecuritySG.tlb
+C:\Proyectos\Tools v2\SGSynergia\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\Tools v2\SGSynergia\obj\Debug\Citi.Synergia.SecuritySG.Resources.resources
+C:\Proyectos\Tools v2\SGSynergia\obj\Debug\SGSynergia.vbproj.GenerateResource.Cache
+C:\Proyectos\Tools v2\SGSynergia\obj\Debug\Citi.Synergia.SecuritySG.dll
+C:\Proyectos\Tools v2\SGSynergia\obj\Debug\Citi.Synergia.SecuritySG.xml
+C:\Proyectos\Tools v2\SGSynergia\obj\Debug\Citi.Synergia.SecuritySG.pdb
