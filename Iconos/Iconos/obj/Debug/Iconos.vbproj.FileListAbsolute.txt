@@ -1,0 +1,22 @@
+C:\Hugo\Synergia\Activos Fijos\VS2010\Iconos\Iconos\obj\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Synergia\Activos Fijos\VS2010\Iconos\Iconos\obj\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Iconos\Iconos\obj\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Iconos\Iconos\bin\Debug\Citi.Synergia.Iconos.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Iconos\Iconos\bin\Debug\Citi.Synergia.Iconos.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Iconos\Iconos\bin\Debug\Citi.Synergia.Iconos.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Iconos\Iconos\obj\Debug\Citi.Synergia.Iconos.Resources.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Iconos\Iconos\obj\Debug\Citi.Synergia.Iconos.Recursos.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Iconos\Iconos\obj\Debug\Citi.Synergia.Iconos.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Iconos\Iconos\obj\Debug\Citi.Synergia.Iconos.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Iconos\Iconos\obj\Debug\Citi.Synergia.Iconos.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Iconos\Iconos\bin\Debug\Citi.Synergia.Iconos.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Iconos\Iconos\bin\Debug\Citi.Synergia.Iconos.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Iconos\Iconos\bin\Debug\Citi.Synergia.Iconos.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Iconos\Iconos\obj\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Iconos\Iconos\obj\Debug\Citi.Synergia.Iconos.Resources.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Iconos\Iconos\obj\Debug\Citi.Synergia.Iconos.Recursos.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Iconos\Iconos\obj\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Iconos\Iconos\obj\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Iconos\Iconos\obj\Debug\Citi.Synergia.Iconos.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Iconos\Iconos\obj\Debug\Citi.Synergia.Iconos.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Iconos\Iconos\obj\Debug\Citi.Synergia.Iconos.pdb
