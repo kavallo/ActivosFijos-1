@@ -1,0 +1,417 @@
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\OPEACT.exe
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\OPEACT.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\OPEACT.xml
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.DB.dll
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Locals.dll
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Security.dll
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.DB.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.DB.xml
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Locals.xml
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Security.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Security.xml
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.FInicio.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS1.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS2.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.Resources.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.Principal.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.exe
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.xml
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEAS0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS3.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTRVES0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAN0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAS1.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEES0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEEM0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEEM1.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTCPPS0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTCPPM0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEDS0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEDM0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFM0.resources
+C:\Software\Citi\ActivosFijos\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PROVEC01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.exe
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PROVEC01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.FInicio.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTCPPS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS1.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS2.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS3.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAS1.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTRVES0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEAS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEDS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEES0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTCPPM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEDM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEEM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEEM1.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.Resources.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.Principal.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAN0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\OPEACT.exe
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\OPEACT.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\OPEACT.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.DB.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Security.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.DB.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.DB.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Security.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Security.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Iconos.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Iconos.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Iconos.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTAFGM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFM1.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFN4.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTRESN0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEAM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEAM1.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTETAS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTTOMS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PicActivos.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAM1.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTRVEM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFM2.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTRVEM1.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.frmParConta.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVASBIT.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAN3.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAN2.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PATRER00.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTETAM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTTOMM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTETAM1.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ConsultaPartida.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\OPEACT.exe.config
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Reportes.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Reportes.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Reportes.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.CONEPCC0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.CONEPCS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PACONC01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PATRAC01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PATRES03.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.DepreciacionMasiva.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.DepreciacionPendientes.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTAFGC0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFC0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\log4net.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\OPEACT\OPEACT\bin\Debug\Citi.Synergia.SecuritySG.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\OPEACT.exe.config
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.exe
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\OPEACT.exe
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\OPEACT.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\OPEACT.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.DB.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Iconos.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Security.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.SecuritySG.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.DB.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.DB.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Security.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Security.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Iconos.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Iconos.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PROVEC01.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.FInicio.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTCPPS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTETAS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS1.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS2.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS3.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAS1.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVASBIT.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTRVES0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEAS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEDS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEES0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTTOMS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.CONEPCC0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.CONEPCS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PACONC01.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PATRAC01.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PATRES03.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTAFGC0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTAFGM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTETAM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTETAM1.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFC0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTCPPM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFM1.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFM2.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFN4.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAM1.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAN3.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTRESN0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTRVEM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTRVEM1.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEAM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEAM1.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEDM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEEM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEEM1.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTTOMM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.frmParConta.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PATRER00.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.Resources.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PicActivos.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.Principal.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAN0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAN2.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ConsultaPartida.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.DepreciacionMasiva.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.DepreciacionPendientes.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Reports.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Reports.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Reports.xml
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\OPEACT.exe.config
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.exe
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.xml
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.pdb
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\OPEACT.exe
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\OPEACT.pdb
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\OPEACT.xml
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.DB.dll
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Locals.dll
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Reports.dll
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Security.dll
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.SecuritySG.dll
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.DB.pdb
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.DB.xml
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Locals.xml
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Reports.pdb
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Reports.xml
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Security.pdb
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Security.xml
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Iconos.pdb
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Iconos.xml
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PROVEC01.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.FInicio.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTCPPS0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTETAS0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS1.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS2.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS3.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAS0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAS1.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVASBIT.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTRVES0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEAS0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEDS0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEES0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTTOMS0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.CONEPCC0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.CONEPCS0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PACONC01.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PATRAC01.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PATRES03.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTAFGC0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTAFGM0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTETAM0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTETAM1.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFC0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFM0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTCPPM0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFM1.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFM2.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFN4.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAM0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAM1.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAN3.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTRESN0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTRVEM0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTRVEM1.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEAM0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEAM1.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEDM0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEEM0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEEM1.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTTOMM0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.frmParConta.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PATRER00.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.Resources.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PicActivos.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.Principal.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAN0.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAN2.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ConsultaPartida.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.DepreciacionMasiva.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.DepreciacionPendientes.resources
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Synergia\FuentesDEV\Modulos\OPEACT\OPEACT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ActivosFijos2014\Modulos\OPEACT\OPEACT\bin\Debug\OPEACT.exe.config
+C:\ActivosFijos2014\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.exe
+C:\ActivosFijos2014\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.xml
+C:\ActivosFijos2014\Modulos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\OPEACT.exe.config
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\OPEACT.exe
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\OPEACT.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\OPEACT.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.DB.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Iconos.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Locals.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Reports.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Security.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.SecuritySG.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.DB.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.DB.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Iconos.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Iconos.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Locals.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Reports.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Reports.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Security.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Security.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.vbprojResolveAssemblyReference.cache
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PROVEC01.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.FInicio.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTCPPS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTETAS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS1.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS2.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFS3.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAS1.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVASBIT.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTRVES0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEAS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEDS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEES0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTTOMS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.CONEPCC0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.CONEPCS0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PACONC01.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PATRAC01.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PATRES03.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTAFGC0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTAFGM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTETAM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTETAM1.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFC0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTCPPM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFM1.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFM2.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMAFN4.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAM1.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAN3.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTRESN0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTRVEM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTRVEM1.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEAM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEAM1.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEDM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEEM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTSEEM1.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTTOMM0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.frmParConta.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PATRER00.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.Resources.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.PicActivos.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.Principal.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAN0.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ACTMVAN2.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.ConsultaPartida.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.DepreciacionMasiva.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.DepreciacionPendientes.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.vbproj.GenerateResource.Cache
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.exe
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\OPEACT\OPEACT\obj\x86\Debug\OPEACT.pdb
