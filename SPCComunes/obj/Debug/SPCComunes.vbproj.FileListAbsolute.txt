@@ -1,0 +1,92 @@
+C:\Software\Citi\ActivosFijos\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.DB.dll
+C:\Software\Citi\ActivosFijos\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.Locals.dll
+C:\Software\Citi\ActivosFijos\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.DB.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.DB.xml
+C:\Software\Citi\ActivosFijos\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.Locals.xml
+C:\Software\Citi\ActivosFijos\Prototipo\SPCComunes\obj\Debug\ResolveAssemblyReference.cache
+C:\Software\Citi\ActivosFijos\Prototipo\SPCComunes\obj\Debug\GenerateResource.read.1.tlog
+C:\Software\Citi\ActivosFijos\Prototipo\SPCComunes\obj\Debug\GenerateResource.write.1.tlog
+C:\Software\Citi\ActivosFijos\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.dll
+C:\Software\Citi\ActivosFijos\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.xml
+C:\Software\Citi\ActivosFijos\Prototipo\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.Resources.resources
+C:\Software\Citi\ActivosFijos\Prototipo\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.dll
+C:\Software\Citi\ActivosFijos\Prototipo\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.xml
+C:\Software\Citi\ActivosFijos\Prototipo\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.DB.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.DB.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.DB.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\SPCComunes\bin\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\SPCComunes\obj\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.Resources.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\SPCComunes\obj\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\SPCComunes\obj\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\SPCComunes\bin\Debug\Citi.Synergia.DB.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\SPCComunes\bin\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\SPCComunes\bin\Debug\Citi.Synergia.DB.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\SPCComunes\bin\Debug\Citi.Synergia.DB.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\SPCComunes\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\SPCComunes\bin\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\SPCComunes\obj\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.Resources.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\SPCComunes\obj\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\SPCComunes\obj\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Synergia\FuentesDEV\Modulos\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.dll
+C:\Synergia\FuentesDEV\Modulos\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Synergia\FuentesDEV\Modulos\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.xml
+C:\Synergia\FuentesDEV\Modulos\SPCComunes\bin\Debug\Citi.Synergia.DB.dll
+C:\Synergia\FuentesDEV\Modulos\SPCComunes\bin\Debug\Citi.Synergia.Locals.dll
+C:\Synergia\FuentesDEV\Modulos\SPCComunes\bin\Debug\Citi.Synergia.DB.pdb
+C:\Synergia\FuentesDEV\Modulos\SPCComunes\bin\Debug\Citi.Synergia.DB.xml
+C:\Synergia\FuentesDEV\Modulos\SPCComunes\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Synergia\FuentesDEV\Modulos\SPCComunes\bin\Debug\Citi.Synergia.Locals.xml
+C:\Synergia\FuentesDEV\Modulos\SPCComunes\obj\Debug\ResolveAssemblyReference.cache
+C:\Synergia\FuentesDEV\Modulos\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.Resources.resources
+C:\Synergia\FuentesDEV\Modulos\SPCComunes\obj\Debug\GenerateResource.read.1.tlog
+C:\Synergia\FuentesDEV\Modulos\SPCComunes\obj\Debug\GenerateResource.write.1.tlog
+C:\Synergia\FuentesDEV\Modulos\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.dll
+C:\Synergia\FuentesDEV\Modulos\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.xml
+C:\Synergia\FuentesDEV\Modulos\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.pdb
+C:\ActivosFijos2014\Modulos\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.dll
+C:\ActivosFijos2014\Modulos\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.pdb
+C:\ActivosFijos2014\Modulos\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.xml
+C:\ActivosFijos2014\Modulos\SPCComunes\bin\Debug\Citi.Synergia.DB.dll
+C:\ActivosFijos2014\Modulos\SPCComunes\bin\Debug\Citi.Synergia.Locals.dll
+C:\ActivosFijos2014\Modulos\SPCComunes\bin\Debug\Citi.Synergia.DB.pdb
+C:\ActivosFijos2014\Modulos\SPCComunes\bin\Debug\Citi.Synergia.DB.xml
+C:\ActivosFijos2014\Modulos\SPCComunes\bin\Debug\Citi.Synergia.Locals.pdb
+C:\ActivosFijos2014\Modulos\SPCComunes\bin\Debug\Citi.Synergia.Locals.xml
+C:\ActivosFijos2014\Modulos\SPCComunes\obj\Debug\SPCComunes.vbprojResolveAssemblyReference.cache
+C:\ActivosFijos2014\Modulos\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.Resources.resources
+C:\ActivosFijos2014\Modulos\SPCComunes\obj\Debug\SPCComunes.vbproj.GenerateResource.Cache
+C:\ActivosFijos2014\Modulos\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.dll
+C:\ActivosFijos2014\Modulos\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.xml
+C:\ActivosFijos2014\Modulos\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\SPCComunes\bin\Debug\Citi.Synergia.DB.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\SPCComunes\bin\Debug\Citi.Synergia.DB.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\SPCComunes\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\SPCComunes\bin\Debug\Citi.Synergia.Locals.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\SPCComunes\obj\Debug\SPCComunes.vbprojResolveAssemblyReference.cache
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.Resources.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\SPCComunes\obj\Debug\SPCComunes.vbproj.GenerateResource.Cache
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\SPCComunes\obj\Debug\Citi.Synergia.SPCComunes.pdb
