@@ -1,0 +1,96 @@
+L:\Desarrollo\Synergia\003 Proyectos\Tools\Seguridad\bin\Release\Citi.Synergia.Security.dll
+L:\Desarrollo\Synergia\003 Proyectos\Tools\Seguridad\bin\Release\Citi.Synergia.Security.pdb
+L:\Desarrollo\Synergia\003 Proyectos\Tools\Seguridad\bin\Release\Citi.Synergia.Security.xml
+L:\Desarrollo\Synergia\003 Proyectos\Tools\Seguridad\obj\Release\ResolveAssemblyReference.cache
+L:\Desarrollo\Synergia\003 Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.AuthorizationForm.resources
+L:\Desarrollo\Synergia\003 Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.FLogin.resources
+L:\Desarrollo\Synergia\003 Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.Resources.resources
+L:\Desarrollo\Synergia\003 Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.vbproj.GenerateResource.Cache
+L:\Desarrollo\Synergia\003 Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.dll
+L:\Desarrollo\Synergia\003 Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.xml
+L:\Desarrollo\Synergia\003 Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.pdb
+L:\Desarrollo\Synergia\003 Proyectos\Tools\Seguridad\bin\Release\Citi.Synergia.DB.dll
+L:\Desarrollo\Synergia\003 Proyectos\Tools\Seguridad\bin\Release\Citi.Synergia.SecuritySG.dll
+L:\Desarrollo\Synergia\003 Proyectos\Tools\Seguridad\bin\Release\Citi.Synergia.DB.pdb
+L:\Desarrollo\Synergia\003 Proyectos\Tools\Seguridad\bin\Release\Citi.Synergia.DB.xml
+L:\Desarrollo\Synergia\003 Proyectos\Tools\Seguridad\bin\Release\Citi.Synergia.SecuritySG.pdb
+L:\Desarrollo\Synergia\003 Proyectos\Tools\Seguridad\bin\Release\Citi.Synergia.SecuritySG.xml
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\Seguridad\bin\Release\Citi.Synergia.Security.dll
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\Seguridad\bin\Release\Citi.Synergia.Security.pdb
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\Seguridad\bin\Release\Citi.Synergia.Security.xml
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\Seguridad\obj\Release\ResolveAssemblyReference.cache
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\Seguridad\obj\Release\Citi.Synergia.Security.AuthorizationForm.resources
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\Seguridad\obj\Release\Citi.Synergia.Security.FLogin.resources
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\Seguridad\obj\Release\Citi.Synergia.Security.Resources.resources
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\Seguridad\obj\Release\Citi.Synergia.Security.vbproj.GenerateResource.Cache
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\Seguridad\obj\Release\Citi.Synergia.Security.dll
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\Seguridad\obj\Release\Citi.Synergia.Security.xml
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\Seguridad\obj\Release\Citi.Synergia.Security.pdb
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\Seguridad\bin\Release\Citi.Synergia.DB.dll
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\Seguridad\bin\Release\Citi.Synergia.SecuritySG.dll
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\Seguridad\bin\Release\Citi.Synergia.DB.pdb
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\Seguridad\bin\Release\Citi.Synergia.DB.xml
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\Seguridad\bin\Release\Citi.Synergia.SecuritySG.pdb
+L:\Desarrollo\Synergia\003 Proyectos\Tools v2\Seguridad\bin\Release\Citi.Synergia.SecuritySG.xml
+C:\Proyectos\Tools v2\Seguridad\bin\Release\Citi.Synergia.Security.dll
+C:\Proyectos\Tools v2\Seguridad\bin\Release\Citi.Synergia.Security.pdb
+C:\Proyectos\Tools v2\Seguridad\bin\Release\Citi.Synergia.Security.xml
+C:\Proyectos\Tools v2\Seguridad\obj\Release\ResolveAssemblyReference.cache
+C:\Proyectos\Tools v2\Seguridad\obj\Release\Citi.Synergia.Security.AuthorizationForm.resources
+C:\Proyectos\Tools v2\Seguridad\obj\Release\Citi.Synergia.Security.FLogin.resources
+C:\Proyectos\Tools v2\Seguridad\obj\Release\Citi.Synergia.Security.frmConexionDialog.resources
+C:\Proyectos\Tools v2\Seguridad\obj\Release\Citi.Synergia.Security.Resources.resources
+C:\Proyectos\Tools v2\Seguridad\obj\Release\Citi.Synergia.Security.vbproj.GenerateResource.Cache
+C:\Proyectos\Tools v2\Seguridad\obj\Release\Citi.Synergia.Security.dll
+C:\Proyectos\Tools v2\Seguridad\obj\Release\Citi.Synergia.Security.xml
+C:\Proyectos\Tools v2\Seguridad\obj\Release\Citi.Synergia.Security.pdb
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\bin\Release\Citi.Synergia.Security.dll
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\bin\Release\Citi.Synergia.Security.pdb
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\bin\Release\Citi.Synergia.Security.xml
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\ResolveAssemblyReference.cache
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\Citi.Synergia.Security.AuthorizationForm.resources
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\Citi.Synergia.Security.FLogin.resources
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\Citi.Synergia.Security.frmConexionDialog.resources
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\Citi.Synergia.Security.Resources.resources
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\Citi.Synergia.Security.vbproj.GenerateResource.Cache
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\Citi.Synergia.Security.dll
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\Citi.Synergia.Security.xml
+L:\Desarrollo\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\Citi.Synergia.Security.pdb
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\bin\Release\Citi.Synergia.Security.dll
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\bin\Release\Citi.Synergia.Security.pdb
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\bin\Release\Citi.Synergia.Security.xml
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\ResolveAssemblyReference.cache
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\Citi.Synergia.Security.AuthorizationForm.resources
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\Citi.Synergia.Security.FLogin.resources
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\Citi.Synergia.Security.frmConexionDialog.resources
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\Citi.Synergia.Security.Resources.resources
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\Citi.Synergia.Security.vbproj.GenerateResource.Cache
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\Citi.Synergia.Security.dll
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\Citi.Synergia.Security.xml
+L:\Development\Synergia\003 Proyectos\003 MIGRACIONES VS2008\Tools\Seguridad\obj\Release\Citi.Synergia.Security.pdb
+C:\Proyectos\Tools\Seguridad\bin\Release\Citi.Synergia.Security.dll
+C:\Proyectos\Tools\Seguridad\bin\Release\Citi.Synergia.Security.pdb
+C:\Proyectos\Tools\Seguridad\bin\Release\Citi.Synergia.Security.xml
+C:\Proyectos\Tools\Seguridad\obj\Release\ResolveAssemblyReference.cache
+C:\Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.AuthorizationForm.resources
+C:\Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.FLogin.resources
+C:\Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.frmConexionDialog.resources
+C:\Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.Resources.resources
+C:\Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.dll
+C:\Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.xml
+C:\Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.pdb
+C:\Proyectos\Tools\Seguridad\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Proyectos\Tools\Seguridad\obj\Release\GenerateResource-ResGen.read.4.tlog
+C:\Proyectos\Tools\Seguridad\obj\Release\GenerateResource-ResGen.write.1.tlog
+\\10.235.115.37\c$\Proyectos\Tools\Seguridad\bin\Release\Citi.Synergia.Security.dll
+\\10.235.115.37\c$\Proyectos\Tools\Seguridad\bin\Release\Citi.Synergia.Security.pdb
+\\10.235.115.37\c$\Proyectos\Tools\Seguridad\bin\Release\Citi.Synergia.Security.xml
+\\10.235.115.37\c$\Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.vbprojResolveAssemblyReference.cache
+\\10.235.115.37\c$\Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.AuthorizationForm.resources
+\\10.235.115.37\c$\Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.FLogin.resources
+\\10.235.115.37\c$\Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.frmConexionDialog.resources
+\\10.235.115.37\c$\Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.Resources.resources
+\\10.235.115.37\c$\Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.vbproj.GenerateResource.Cache
+\\10.235.115.37\c$\Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.dll
+\\10.235.115.37\c$\Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.xml
+\\10.235.115.37\c$\Proyectos\Tools\Seguridad\obj\Release\Citi.Synergia.Security.pdb

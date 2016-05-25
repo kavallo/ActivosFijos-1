@@ -1,0 +1,117 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Citi.Synergia.Security
+</name>
+</assembly>
+<members>
+<member name="M:Citi.Synergia.Security.frmConexionDialog.#ctor(System.Data.DataTable)">
+	<summary>
+ Para poder inicializar este Dialog es necesario especificar el Data table que cargará el combobox a mostrar al usuario
+ </summary>
+	<param name="datasources">Data table DATASOURCES</param>
+	<remarks></remarks>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.AMBIENTESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.CODIGOS_SGDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.DATASOURCESDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.SISTEMASDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.PARAM_ENTORNODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.PARAMETROSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.AMBIENTESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.CODIGOS_SGRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.DATASOURCESRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.SISTEMASRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.PARAM_ENTORNORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.PARAMETROSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.AMBIENTESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.CODIGOS_SGRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.DATASOURCESRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.SISTEMASRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.PARAM_ENTORNORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas.PARAMETROSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Citi.Synergia.Security.dsSistemas">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:Citi.Synergia.Security.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Citi.Synergia.Security.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Citi.Synergia.Security.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Citi.Synergia.Security.Accesos.Login(System.String,System.String,System.String,System.String@,System.String@,System.String@)">
+	<summary>
+	</summary>
+	<param name="codigoSG">ID de la aplicación en SG.</param>
+	<param name="nombreSistema">Nombre de la aplicación.</param>
+	<param name="pathConfigSG">Ubicación del archivo de configuración de Security Gateway.</param>
+	<param name="usuarioDB">Variable que contendrá cuál es el usuario del login a base de datos devuelto por Security Gateway.</param>
+	<param name="passwordDB">Variable que contendrá cuál es el password del login a base de datos devuelto por Security Gateway.</param>
+	<param name="mensaje">Variable que devolverá el mensaje devuelto por Security Gateway.</param>
+	<returns>Verdadero si pudo autenticarse.</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,13 @@
+C:\Documents and Settings\mm32832\Desktop\BQY RPT PROGRAM\Seguridad\Seguridad\bin\Debug\Citi.Synergia.Security.dll
+C:\Documents and Settings\mm32832\Desktop\BQY RPT PROGRAM\Seguridad\Seguridad\bin\Debug\Citi.Synergia.Security.pdb
+C:\Documents and Settings\mm32832\Desktop\BQY RPT PROGRAM\Seguridad\Seguridad\bin\Debug\Citi.Synergia.Security.xml
+C:\Documents and Settings\mm32832\Desktop\BQY RPT PROGRAM\Seguridad\Seguridad\bin\Debug\Citi.Synergia.DB.dll
+C:\Documents and Settings\mm32832\Desktop\BQY RPT PROGRAM\Seguridad\Seguridad\bin\Debug\Citi.Synergia.DB.pdb
+C:\Documents and Settings\mm32832\Desktop\BQY RPT PROGRAM\Seguridad\Seguridad\bin\Debug\Citi.Synergia.DB.xml
+C:\Documents and Settings\mm32832\Desktop\BQY RPT PROGRAM\Seguridad\Seguridad\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mm32832\Desktop\BQY RPT PROGRAM\Seguridad\Seguridad\obj\Debug\City.Synergia.Security.FLogin.resources
+C:\Documents and Settings\mm32832\Desktop\BQY RPT PROGRAM\Seguridad\Seguridad\obj\Debug\City.Synergia.Security.Resources.resources
+C:\Documents and Settings\mm32832\Desktop\BQY RPT PROGRAM\Seguridad\Seguridad\obj\Debug\City.Synergia.Security.vbproj.GenerateResource.Cache
+C:\Documents and Settings\mm32832\Desktop\BQY RPT PROGRAM\Seguridad\Seguridad\obj\Debug\Citi.Synergia.Security.dll
+C:\Documents and Settings\mm32832\Desktop\BQY RPT PROGRAM\Seguridad\Seguridad\obj\Debug\Citi.Synergia.Security.xml
+C:\Documents and Settings\mm32832\Desktop\BQY RPT PROGRAM\Seguridad\Seguridad\obj\Debug\Citi.Synergia.Security.pdb
