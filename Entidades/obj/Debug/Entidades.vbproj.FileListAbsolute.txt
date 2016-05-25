@@ -1,0 +1,77 @@
+C:\Software\Citi\ActivosFijos\Prototipo\Entidades\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Entidades\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Entidades\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Software\Citi\ActivosFijos\Prototipo\Entidades\obj\Debug\Citi.Synergia.Entidades.Resources.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Entidades\obj\Debug\GenerateResource.read.1.tlog
+C:\Software\Citi\ActivosFijos\Prototipo\Entidades\obj\Debug\GenerateResource.write.1.tlog
+C:\Software\Citi\ActivosFijos\Prototipo\Entidades\obj\Debug\Citi.Synergia.Entidades.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Entidades\obj\Debug\Citi.Synergia.Entidades.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Entidades\obj\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Entidades\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Entidades\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Entidades\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Entidades\obj\Debug\Citi.Synergia.Entidades.Resources.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Entidades\obj\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Entidades\obj\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Entidades\obj\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Entidades\obj\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Entidades\obj\Debug\Citi.Synergia.Entidades.pdb
+C:\Software\Citi\ActivosFijos\Entrega\Entidades\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Software\Citi\ActivosFijos\Entrega\Entidades\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Software\Citi\ActivosFijos\Entrega\Entidades\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Software\Citi\ActivosFijos\Entrega\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Software\Citi\ActivosFijos\Entrega\Entidades\obj\Debug\Citi.Synergia.Entidades.Resources.resources
+C:\Software\Citi\ActivosFijos\Entrega\Entidades\obj\Debug\GenerateResource.read.1.tlog
+C:\Software\Citi\ActivosFijos\Entrega\Entidades\obj\Debug\GenerateResource.write.1.tlog
+C:\Software\Citi\ActivosFijos\Entrega\Entidades\obj\Debug\Citi.Synergia.Entidades.dll
+C:\Software\Citi\ActivosFijos\Entrega\Entidades\obj\Debug\Citi.Synergia.Entidades.xml
+C:\Software\Citi\ActivosFijos\Entrega\Entidades\obj\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Entidades\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Entidades\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Entidades\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Entidades\obj\Debug\Citi.Synergia.Entidades.Resources.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Entidades\obj\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Entidades\obj\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Entidades\obj\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Entidades\obj\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Entidades\obj\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Entidades\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Entidades\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Entidades\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Entidades\obj\Debug\Citi.Synergia.Entidades.Resources.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Entidades\obj\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Entidades\obj\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Entidades\obj\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Entidades\obj\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Entidades\obj\Debug\Citi.Synergia.Entidades.pdb
+C:\Synergia\FuentesDEV\Modulos\Entidades\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Synergia\FuentesDEV\Modulos\Entidades\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Synergia\FuentesDEV\Modulos\Entidades\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Synergia\FuentesDEV\Modulos\Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Synergia\FuentesDEV\Modulos\Entidades\obj\Debug\Citi.Synergia.Entidades.Resources.resources
+C:\Synergia\FuentesDEV\Modulos\Entidades\obj\Debug\GenerateResource.read.1.tlog
+C:\Synergia\FuentesDEV\Modulos\Entidades\obj\Debug\GenerateResource.write.1.tlog
+C:\Synergia\FuentesDEV\Modulos\Entidades\obj\Debug\Citi.Synergia.Entidades.dll
+C:\Synergia\FuentesDEV\Modulos\Entidades\obj\Debug\Citi.Synergia.Entidades.xml
+C:\Synergia\FuentesDEV\Modulos\Entidades\obj\Debug\Citi.Synergia.Entidades.pdb
+C:\ActivosFijos2014\Modulos\Entidades\bin\Debug\Citi.Synergia.Entidades.dll
+C:\ActivosFijos2014\Modulos\Entidades\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\ActivosFijos2014\Modulos\Entidades\bin\Debug\Citi.Synergia.Entidades.xml
+C:\ActivosFijos2014\Modulos\Entidades\obj\Debug\Citi.Synergia.Entidades.Resources.resources
+C:\ActivosFijos2014\Modulos\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\ActivosFijos2014\Modulos\Entidades\obj\Debug\Citi.Synergia.Entidades.dll
+C:\ActivosFijos2014\Modulos\Entidades\obj\Debug\Citi.Synergia.Entidades.xml
+C:\ActivosFijos2014\Modulos\Entidades\obj\Debug\Citi.Synergia.Entidades.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Entidades\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Entidades\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Entidades\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Entidades\obj\Debug\Entidades.vbprojResolveAssemblyReference.cache
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Entidades\obj\Debug\Citi.Synergia.Entidades.Resources.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Entidades\obj\Debug\Citi.Synergia.Entidades.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Entidades\obj\Debug\Citi.Synergia.Entidades.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Entidades\obj\Debug\Citi.Synergia.Entidades.pdb
