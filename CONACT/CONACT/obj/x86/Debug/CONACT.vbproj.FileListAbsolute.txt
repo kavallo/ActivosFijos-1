@@ -1,0 +1,203 @@
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\CONACT.exe
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\CONACT.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\CONACT.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.DB.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.Security.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.SPCComunes.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.DB.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.DB.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.Security.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.Security.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.SPCComunes.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.Resources.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.exe
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.Principal.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTTACG0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTTACS1.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTTACM1.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTDIVS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTDIVM0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMVAS3.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMAFS7.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.PATRES03.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.PATRAC01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTCPPS3.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTSEDS1.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTSEES2.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTSEES3.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.CONEPCC0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.CONEPCS0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.PACONC01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTCPPM1.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTSEDM1.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTSEEM2.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.Opgraf.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTDIVG0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.Grafico.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMAFS6.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMVAS4.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMVAM1.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.Iconos.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.Iconos.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.Iconos.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\CONACT.exe.config
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTAFGC0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMAFC0.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMAFS4.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\CONACT\CONACT\bin\Debug\Citi.Synergia.SecuritySG.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\CONACT.exe.config
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.exe
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTDIVG0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMVAS3.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTTACG0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.Grafico.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTCPPS3.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTDIVS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMAFS7.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMAFS6.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMVAS4.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTSEDS1.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTSEES2.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTSEES3.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTTACS1.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.CONEPCC0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.CONEPCS0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.PACONC01.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.PATRES03.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTAFGC0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTCPPM1.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTDIVM0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMAFC0.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMVAM1.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTSEDM1.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTSEEM2.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTTACM1.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.PATRAC01.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.Resources.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.Opgraf.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.Principal.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMAFS4.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\CONACT.exe
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\CONACT.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\CONACT.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.DB.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Iconos.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Security.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.SPCComunes.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.SecuritySG.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.DB.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.DB.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Security.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Security.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.SPCComunes.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Iconos.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Iconos.xml
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\CONACT.exe.config
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.exe
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.xml
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.pdb
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\CONACT.exe
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\CONACT.pdb
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\CONACT.xml
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.DB.dll
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Entidades.dll
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Iconos.dll
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Locals.dll
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Security.dll
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.SPCComunes.dll
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Traductor.dll
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.SecuritySG.dll
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.DB.pdb
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.DB.xml
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Entidades.xml
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Locals.pdb
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Locals.xml
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Security.pdb
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Security.xml
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.SPCComunes.pdb
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.SPCComunes.xml
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Traductor.xml
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Iconos.pdb
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\bin\Debug\Citi.Synergia.Iconos.xml
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.vbprojResolveAssemblyReference.cache
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTDIVG0.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMVAS3.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTTACG0.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.Grafico.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTCPPS3.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTDIVS0.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMAFS7.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMAFS6.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMVAS4.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTSEDS1.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTSEES2.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTSEES3.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTTACS1.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.CONEPCC0.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.CONEPCS0.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.PACONC01.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.PATRES03.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTAFGC0.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTCPPM1.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTDIVM0.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMAFC0.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMVAM1.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTSEDM1.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTSEEM2.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTTACM1.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.PATRAC01.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.Resources.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.Opgraf.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.Principal.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.ACTMAFS4.resources
+C:\ActivosFijos2014\Modulos\CONACT\CONACT\obj\x86\Debug\CONACT.vbproj.GenerateResource.Cache

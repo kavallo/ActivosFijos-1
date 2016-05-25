@@ -1,0 +1,24 @@
+<ROOT>
+  <COMPANIAS>
+    <LINEA Indice="1" Servidor="." BaseDeDatos="FixedAssets" Descripcion="Fixed Assets (BLANK)" LegalEntity="" Country="" BatchCode="" TransactionCodeDebit="" TransactionCodeCredit="" BranchCode="" BranchCodeLength="" ADEComplement="" ADEComplementLength=""/>
+    <LINEA Indice="2" Servidor="." BaseDeDatos="FixedAssets_Copy" Descripcion="Fixed Assets (BLANK_Copy)" LegalEntity="" Country="" BatchCode="" TransactionCodeDebit="" TransactionCodeCredit="" BranchCode="" BranchCodeLength="" ADEComplement="" ADEComplementLength=""/>
+    <LINEA Indice="3" Servidor="." BaseDeDatos="FixedAssets_Copy2" Descripcion="Fixed Assets (BLANK_Copy2)" LegalEntity="" Country="" BatchCode="" TransactionCodeDebit="" TransactionCodeCredit="" BranchCode="" BranchCodeLength="" ADEComplement="" ADEComplementLength=""/>
+    <LINEA Indice="4" Servidor="SYNERGIA-DEV01\SQL2014" BaseDeDatos="FixedAssets" Descripcion="Fixed Assets (Framework)" LegalEntity="" Country="" BatchCode="" TransactionCodeDebit="" TransactionCodeCredit="" BranchCode="" BranchCodeLength="" ADEComplement="" ADEComplementLength=""/>
+  </COMPANIAS>
+  <CONFIGURACION>
+    <IDIOMAS UtilizarIdiomas="1" CrearIdiomas="0">
+      <LINEA Codigo="SP" Descripcion="Spanish" />
+      <LINEA Codigo="EN" Descripcion="English" />
+    </IDIOMAS>
+    <GENERALES>
+      <baseDeDatos>
+        <numeroRegistrosEnGrid>25</numeroRegistrosEnGrid>
+        <DiaInicioProcesoDepreciacion>22</DiaInicioProcesoDepreciacion>
+      </baseDeDatos>
+    </GENERALES>
+  </CONFIGURACION>
+  <SecuritySG>
+    <ApplicationID>123</ApplicationID>
+    <PathConfigXmlSG>C:\ActivosFijos2016\Modulos\Archivos Fijos\CodigosAcceso.Xml</PathConfigXmlSG>
+  </SecuritySG>
+</ROOT>
