@@ -1,0 +1,76 @@
+C:\Software\Citi\ActivosFijos\Prototipo\Locals\obj\Debug\ResolveAssemblyReference.cache
+C:\Software\Citi\ActivosFijos\Prototipo\Locals\obj\Debug\GenerateResource.read.1.tlog
+C:\Software\Citi\ActivosFijos\Prototipo\Locals\obj\Debug\GenerateResource.write.1.tlog
+C:\Software\Citi\ActivosFijos\Prototipo\Locals\bin\Debug\Citi.Synergia.Locals.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Locals\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Locals\bin\Debug\Citi.Synergia.Locals.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Locals\obj\Debug\Citi.Synergia.Locals.Resources.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Locals\obj\Debug\Citi.Synergia.Locals.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Locals\obj\Debug\Citi.Synergia.Locals.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Locals\obj\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Locals\bin\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Locals\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Locals\bin\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Locals\obj\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Locals\obj\Debug\Citi.Synergia.Locals.Resources.resources
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Locals\obj\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Locals\obj\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Locals\obj\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Locals\obj\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Synergia\Activos Fijos\DEMO - Admin\Prototipo\Locals\obj\Debug\Citi.Synergia.Locals.pdb
+C:\Software\Citi\ActivosFijos\Entrega\Locals\bin\Debug\Citi.Synergia.Locals.dll
+C:\Software\Citi\ActivosFijos\Entrega\Locals\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Software\Citi\ActivosFijos\Entrega\Locals\bin\Debug\Citi.Synergia.Locals.xml
+C:\Software\Citi\ActivosFijos\Entrega\Locals\obj\Debug\ResolveAssemblyReference.cache
+C:\Software\Citi\ActivosFijos\Entrega\Locals\obj\Debug\Citi.Synergia.Locals.Resources.resources
+C:\Software\Citi\ActivosFijos\Entrega\Locals\obj\Debug\GenerateResource.read.1.tlog
+C:\Software\Citi\ActivosFijos\Entrega\Locals\obj\Debug\GenerateResource.write.1.tlog
+C:\Software\Citi\ActivosFijos\Entrega\Locals\obj\Debug\Citi.Synergia.Locals.dll
+C:\Software\Citi\ActivosFijos\Entrega\Locals\obj\Debug\Citi.Synergia.Locals.xml
+C:\Software\Citi\ActivosFijos\Entrega\Locals\obj\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Locals\bin\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Locals\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Locals\bin\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Locals\obj\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Locals\obj\Debug\Citi.Synergia.Locals.Resources.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Locals\obj\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Locals\obj\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Locals\obj\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Locals\obj\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Locals\obj\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Locals\bin\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Locals\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Locals\bin\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Locals\obj\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Locals\obj\Debug\Citi.Synergia.Locals.Resources.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Locals\obj\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Locals\obj\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Locals\obj\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Locals\obj\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Locals\obj\Debug\Citi.Synergia.Locals.pdb
+C:\Synergia\FuentesDEV\Modulos\Locals\bin\Debug\Citi.Synergia.Locals.dll
+C:\Synergia\FuentesDEV\Modulos\Locals\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Synergia\FuentesDEV\Modulos\Locals\bin\Debug\Citi.Synergia.Locals.xml
+C:\Synergia\FuentesDEV\Modulos\Locals\obj\Debug\ResolveAssemblyReference.cache
+C:\Synergia\FuentesDEV\Modulos\Locals\obj\Debug\Citi.Synergia.Locals.Resources.resources
+C:\Synergia\FuentesDEV\Modulos\Locals\obj\Debug\GenerateResource.read.1.tlog
+C:\Synergia\FuentesDEV\Modulos\Locals\obj\Debug\GenerateResource.write.1.tlog
+C:\Synergia\FuentesDEV\Modulos\Locals\obj\Debug\Citi.Synergia.Locals.dll
+C:\Synergia\FuentesDEV\Modulos\Locals\obj\Debug\Citi.Synergia.Locals.xml
+C:\Synergia\FuentesDEV\Modulos\Locals\obj\Debug\Citi.Synergia.Locals.pdb
+C:\ActivosFijos2014\Modulos\Locals\bin\Debug\Citi.Synergia.Locals.dll
+C:\ActivosFijos2014\Modulos\Locals\bin\Debug\Citi.Synergia.Locals.pdb
+C:\ActivosFijos2014\Modulos\Locals\bin\Debug\Citi.Synergia.Locals.xml
+C:\ActivosFijos2014\Modulos\Locals\obj\Debug\Citi.Synergia.Locals.Resources.resources
+C:\ActivosFijos2014\Modulos\Locals\obj\Debug\Locals.vbproj.GenerateResource.Cache
+C:\ActivosFijos2014\Modulos\Locals\obj\Debug\Citi.Synergia.Locals.dll
+C:\ActivosFijos2014\Modulos\Locals\obj\Debug\Citi.Synergia.Locals.xml
+C:\ActivosFijos2014\Modulos\Locals\obj\Debug\Citi.Synergia.Locals.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Locals\bin\Debug\Citi.Synergia.Locals.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Locals\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Locals\bin\Debug\Citi.Synergia.Locals.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Locals\obj\Debug\Citi.Synergia.Locals.Resources.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Locals\obj\Debug\Locals.vbproj.GenerateResource.Cache
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Locals\obj\Debug\Citi.Synergia.Locals.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Locals\obj\Debug\Citi.Synergia.Locals.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Locals\obj\Debug\Citi.Synergia.Locals.pdb
