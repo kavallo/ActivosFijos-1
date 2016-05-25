@@ -1,0 +1,173 @@
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.Security.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.Security.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.Security.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.Locals.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.DB.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.Locals.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.DB.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.DB.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Software\Citi\ActivosFijos\Prototipo\Security\obj\Debug\Citi.Synergia.Security.FLogin.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Security\obj\Debug\Citi.Synergia.Security.Resources.resources
+C:\Software\Citi\ActivosFijos\Prototipo\Security\obj\Debug\GenerateResource.read.1.tlog
+C:\Software\Citi\ActivosFijos\Prototipo\Security\obj\Debug\GenerateResource.write.1.tlog
+C:\Software\Citi\ActivosFijos\Prototipo\Security\obj\Debug\Citi.Synergia.Security.dll
+C:\Software\Citi\ActivosFijos\Prototipo\Security\obj\Debug\Citi.Synergia.Security.xml
+C:\Software\Citi\ActivosFijos\Prototipo\Security\obj\Debug\Citi.Synergia.Security.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Software\Citi\ActivosFijos\Prototipo\Security\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.Security.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.Security.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.Security.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.DB.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.DB.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.DB.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\obj\Debug\Citi.Synergia.Security.FLogin.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\obj\Debug\Citi.Synergia.Security.Resources.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\obj\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\obj\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\obj\Debug\Citi.Synergia.Security.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\obj\Debug\Citi.Synergia.Security.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\obj\Debug\Citi.Synergia.Security.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Security\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.Security.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.Security.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.Security.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.DB.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.DB.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.DB.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\obj\Debug\Citi.Synergia.Security.FLogin.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\obj\Debug\Citi.Synergia.Security.Resources.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\obj\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\obj\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\obj\Debug\Citi.Synergia.Security.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\obj\Debug\Citi.Synergia.Security.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\obj\Debug\Citi.Synergia.Security.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Security\bin\Debug\Citi.Synergia.SecuritySG.dll
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.Security.dll
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.Security.pdb
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.Security.xml
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.Locals.dll
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.SecuritySG.dll
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.DB.dll
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.Locals.xml
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.DB.pdb
+C:\Synergia\FuentesDEV\Modulos\Security\bin\Debug\Citi.Synergia.DB.xml
+C:\Synergia\FuentesDEV\Modulos\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\Synergia\FuentesDEV\Modulos\Security\obj\Debug\Citi.Synergia.Security.FLogin.resources
+C:\Synergia\FuentesDEV\Modulos\Security\obj\Debug\Citi.Synergia.Security.Resources.resources
+C:\Synergia\FuentesDEV\Modulos\Security\obj\Debug\GenerateResource.read.1.tlog
+C:\Synergia\FuentesDEV\Modulos\Security\obj\Debug\GenerateResource.write.1.tlog
+C:\Synergia\FuentesDEV\Modulos\Security\obj\Debug\Citi.Synergia.Security.dll
+C:\Synergia\FuentesDEV\Modulos\Security\obj\Debug\Citi.Synergia.Security.xml
+C:\Synergia\FuentesDEV\Modulos\Security\obj\Debug\Citi.Synergia.Security.pdb
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.Security.dll
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.Security.pdb
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.Security.xml
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.Entidades.dll
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.Locals.dll
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.SecuritySG.dll
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.Traductor.dll
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.DB.dll
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.Entidades.xml
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.Locals.pdb
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.Locals.xml
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.Traductor.xml
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.DB.pdb
+C:\ActivosFijos2014\Modulos\Security\bin\Debug\Citi.Synergia.DB.xml
+C:\ActivosFijos2014\Modulos\Security\obj\Debug\Security.vbprojResolveAssemblyReference.cache
+C:\ActivosFijos2014\Modulos\Security\obj\Debug\Citi.Synergia.Security.FLogin.resources
+C:\ActivosFijos2014\Modulos\Security\obj\Debug\Citi.Synergia.Security.Resources.resources
+C:\ActivosFijos2014\Modulos\Security\obj\Debug\Security.vbproj.GenerateResource.Cache
+C:\ActivosFijos2014\Modulos\Security\obj\Debug\Citi.Synergia.Security.dll
+C:\ActivosFijos2014\Modulos\Security\obj\Debug\Citi.Synergia.Security.xml
+C:\ActivosFijos2014\Modulos\Security\obj\Debug\Citi.Synergia.Security.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.Security.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.Security.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.Security.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.Locals.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.DB.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.SecuritySG.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.Locals.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.DB.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.DB.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\obj\Debug\Security.vbprojResolveAssemblyReference.cache
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\obj\Debug\Citi.Synergia.Security.FLogin.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\obj\Debug\Citi.Synergia.Security.Resources.resources
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\obj\Debug\Security.vbproj.GenerateResource.Cache
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\obj\Debug\Citi.Synergia.Security.dll
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\obj\Debug\Citi.Synergia.Security.xml
+C:\Synergia-DEV01\OneDrive\Proyectos-SRC\ActivosFijos\Security\obj\Debug\Citi.Synergia.Security.pdb
