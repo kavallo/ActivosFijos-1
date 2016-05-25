@@ -1,0 +1,69 @@
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\bin\Debug\Citi.Synergia.Reportes.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\bin\Debug\Citi.Synergia.Reportes.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\bin\Debug\Citi.Synergia.Reportes.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\bin\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\bin\Debug\Citi.Synergia.DB.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\bin\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\bin\Debug\Citi.Synergia.DB.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\bin\Debug\Citi.Synergia.DB.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\obj\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\obj\Debug\Citi.Synergia.Reportes.FReporte.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\obj\Debug\Citi.Synergia.Reportes.Resources.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\obj\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\obj\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\obj\Debug\Citi.Synergia.Reportes.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\obj\Debug\Citi.Synergia.Reportes.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\Reportes\Reportes\obj\Debug\Citi.Synergia.Reportes.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Reportes.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Reportes.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Reportes.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.DB.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.DB.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.DB.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\obj\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\obj\Debug\Citi.Synergia.Reportes.FReporte.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\obj\Debug\Citi.Synergia.Reportes.Resources.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\obj\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\obj\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\obj\Debug\Citi.Synergia.Reportes.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\obj\Debug\Citi.Synergia.Reportes.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\Reportes\Reportes\obj\Debug\Citi.Synergia.Reportes.pdb
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Reportes.dll
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Reportes.pdb
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Reportes.xml
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Locals.dll
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.DB.dll
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Locals.xml
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.DB.pdb
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.DB.xml
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\obj\Debug\ResolveAssemblyReference.cache
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\obj\Debug\Citi.Synergia.Reportes.FReporte.resources
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\obj\Debug\Citi.Synergia.Reportes.Resources.resources
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\obj\Debug\GenerateResource.read.1.tlog
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\obj\Debug\GenerateResource.write.1.tlog
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\obj\Debug\Citi.Synergia.Reportes.dll
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\obj\Debug\Citi.Synergia.Reportes.xml
+C:\Synergia\FuentesDEV\Modulos\Reportes\Reportes\obj\Debug\Citi.Synergia.Reportes.pdb
