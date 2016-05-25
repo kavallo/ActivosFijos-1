@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A72F5AE9-C262-49A5-BC01-E8BA64B946D7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>REPACT.My.MyApplication</StartupObject>
+    <RootNamespace>REPACT</RootNamespace>
+    <AssemblyName>REPACT</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>REPACT.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>REPACT.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>chart.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Citi.Synergia.DB">
+      <HintPath>..\..\DB\bin\Debug\Citi.Synergia.DB.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.Entidades">
+      <HintPath>..\..\Entidades\bin\Debug\Citi.Synergia.Entidades.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.HelperClient, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\HelperClient\bin\Debug\Citi.Synergia.HelperClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.Iconos">
+      <HintPath>..\..\Iconos\Iconos\bin\Debug\Citi.Synergia.Iconos.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.Locals">
+      <HintPath>..\..\Locals\bin\Debug\Citi.Synergia.Locals.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.Reports, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Reports\Reports\bin\Debug\Citi.Synergia.Reports.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.Security, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Security\bin\Debug\Citi.Synergia.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.SPCComunes">
+      <HintPath>..\..\SPCComunes\bin\Debug\Citi.Synergia.SPCComunes.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.Traductor">
+      <HintPath>..\..\Traductor\bin\Debug\Citi.Synergia.Traductor.dll</HintPath>
+    </Reference>
+    <Reference Include="Citi.Synergia.UIGenerico">
+      <HintPath>..\..\UIGenerico\bin\Debug\Citi.Synergia.UIGenerico.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\..\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Excel\15.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ACTMAFN2.Designer.vb">
+      <DependentUpon>ACTMAFN2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ACTMAFN2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACTMAFN3.Designer.vb">
+      <DependentUpon>ACTMAFN3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ACTMAFN3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACTMAFN5.Designer.vb">
+      <DependentUpon>ACTMAFN5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ACTMAFN5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACTMAFN6.Designer.vb">
+      <DependentUpon>ACTMAFN6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ACTMAFN6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACTMVAN3.Designer.vb">
+      <DependentUpon>ACTMVAN3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ACTMVAN3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACTMVAN4.Designer.vb">
+      <DependentUpon>ACTMVAN4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ACTMVAN4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACTMVAN5.Designer.vb">
+      <DependentUpon>ACTMVAN5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ACTMVAN5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACTMVAN6.Designer.vb">
+      <DependentUpon>ACTMVAN6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ACTMVAN6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACTMVAN7.Designer.vb">
+      <DependentUpon>ACTMVAN7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ACTMVAN7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ACTMVAN8.Designer.vb">
+      <DependentUpon>ACTMVAN8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ACTMVAN8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddDispFull.Designer.vb">
+      <DependentUpon>AddDispFull.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddDispFull.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultas\PROVEC01.designer.vb">
+      <DependentUpon>PROVEC01.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Consultas\PROVEC01.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExportAllFields.Designer.vb">
+      <DependentUpon>ExportAllFields.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExportAllFields.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FInicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FInicio.Designer.vb">
+      <DependentUpon>FInicio.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Globals.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Principal.Designer.vb">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ACTMAFN2.resx">
+      <DependentUpon>ACTMAFN2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACTMAFN3.resx">
+      <DependentUpon>ACTMAFN3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACTMAFN5.resx">
+      <DependentUpon>ACTMAFN5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACTMAFN6.resx">
+      <DependentUpon>ACTMAFN6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACTMVAN3.resx">
+      <DependentUpon>ACTMVAN3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACTMVAN4.resx">
+      <DependentUpon>ACTMVAN4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACTMVAN5.resx">
+      <DependentUpon>ACTMVAN5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACTMVAN6.resx">
+      <DependentUpon>ACTMVAN6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACTMVAN7.resx">
+      <DependentUpon>ACTMVAN7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ACTMVAN8.resx">
+      <DependentUpon>ACTMVAN8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddDispFull.resx">
+      <DependentUpon>AddDispFull.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultas\PROVEC01.resx">
+      <DependentUpon>PROVEC01.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExportAllFields.resx">
+      <DependentUpon>ExportAllFields.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FInicio.resx">
+      <DependentUpon>FInicio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="chart.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

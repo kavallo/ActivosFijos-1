@@ -1,0 +1,194 @@
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.FInicio.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.Resources.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\REPACT.exe
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\REPACT.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\REPACT.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.DB.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Security.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.SPCComunes.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.DB.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.DB.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Security.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Security.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.SPCComunes.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.exe
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMAFN2.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMAFN3.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMAFN5.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMAFN6.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN3.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN4.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN5.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN6.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN7.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN8.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.Principal.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.vbproj.ResolveComReference.cache
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\REPACT.exe.config
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Iconos.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Reportes.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Reportes.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Reportes.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Iconos.pdb
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.Iconos.xml
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\log4net.dll
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.AddDispFull.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\obj\x86\Debug\REPACT.PROVEC01.resources
+C:\Hugo\Synergia\Activos Fijos\VS2010\Prototipo\REPACT\REPACT\bin\Debug\Citi.Synergia.SecuritySG.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\REPACT.exe.config
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.vbproj.ResolveComReference.cache
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.exe
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\REPACT.exe
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\REPACT.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\REPACT.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.DB.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Locals.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Security.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.SPCComunes.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.SecuritySG.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.DB.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.DB.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Locals.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Security.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Security.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.SPCComunes.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Iconos.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Iconos.xml
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMAFN2.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMAFN3.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMAFN5.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMAFN6.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN3.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN4.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN5.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN6.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN7.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN8.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.AddDispFull.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.PROVEC01.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.FInicio.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.Resources.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.Principal.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Iconos.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ExportAllFields.resources
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Reports.dll
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Reports.pdb
+C:\Hugo\Actividad 38 - Cambios a Activos Fijos\Fuentes\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Reports.xml
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\REPACT.exe.config
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.vbproj.ResolveComReference.cache
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.exe
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.xml
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.pdb
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\REPACT.exe
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\REPACT.pdb
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\REPACT.xml
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.DB.dll
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Entidades.dll
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.HelperClient.dll
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Locals.dll
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Reports.dll
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Security.dll
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.SPCComunes.dll
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Traductor.dll
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.UIGenerico.dll
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.SecuritySG.dll
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.DB.pdb
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.DB.xml
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Entidades.pdb
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Entidades.xml
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.HelperClient.pdb
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.HelperClient.xml
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Locals.pdb
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Locals.xml
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Reports.pdb
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Reports.xml
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Security.pdb
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Security.xml
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.SPCComunes.pdb
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.SPCComunes.xml
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Traductor.pdb
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.Traductor.xml
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.UIGenerico.pdb
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\bin\Debug\Citi.Synergia.UIGenerico.xml
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMAFN2.resources
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMAFN3.resources
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMAFN5.resources
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMAFN6.resources
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN3.resources
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN4.resources
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN5.resources
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN6.resources
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN7.resources
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN8.resources
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.AddDispFull.resources
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.PROVEC01.resources
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ExportAllFields.resources
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.FInicio.resources
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.Resources.resources
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.Principal.resources
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Synergia\FuentesDEV\Modulos\REPACT\REPACT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\bin\Debug\REPACT.exe.config
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.vbproj.ResolveComReference.cache
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.exe
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.xml
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.pdb
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.vbprojResolveAssemblyReference.cache
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMAFN2.resources
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMAFN3.resources
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMAFN5.resources
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMAFN6.resources
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN3.resources
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN4.resources
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN5.resources
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN6.resources
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN7.resources
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ACTMVAN8.resources
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.AddDispFull.resources
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.PROVEC01.resources
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.ExportAllFields.resources
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.FInicio.resources
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.Resources.resources
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.Principal.resources
+C:\ActivosFijos2014\Modulos\REPACT\REPACT\obj\x86\Debug\REPACT.vbproj.GenerateResource.Cache

@@ -1,0 +1,252 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Citi.Synergia.Iconos
+</name>
+</assembly>
+<members>
+<member name="T:Citi.Synergia.Iconos.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Citi.Synergia.Iconos.My.Resources.Recursos">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Agregar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.AsociarImagen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Autoriza">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Autorizacion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.BajarNivel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Borrar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.BuscarCarpeta">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Calculo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.CoberturaActivos">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Coberturas">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Consolidar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.ConsultaDerecha">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.ConsultaIzquierda">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.ConsultaMovimientos">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.ConsultaPartida">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Consultar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Copiar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Editar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Endoso">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.ExportarAExcel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Graficar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.ImgBuscarCarpeta">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.InfoGeneral">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Iprimir">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.ListaValores">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Llenar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Mejorar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Modificar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Movimiento">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.NoEncontrada">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.PolizasVencidas">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Proceso">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Reporte">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.ReporteFicha">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.ReporteGeneral">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Revaluar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Salir">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Tabla">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.TablaVer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.TasasDeCambio">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.TiposGraficas">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Citi.Synergia.Iconos.My.Resources.Recursos.Traslado">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+</members>
+</doc>
